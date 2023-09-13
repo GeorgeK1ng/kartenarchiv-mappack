@@ -1,0 +1,44 @@
+ #Wow! Es gibt noch Leute, die sich Readme-Files anschauen. Respekt!#
+ 
+ "Rückkehr zum Drachenpass" 
+  
+  Eine HoMM 3 Karte von Ravenna,
+  
+  Mapgröße M, für RoE (Restauration of Erathia)
+  
+  Morgen allerseits!
+  Diese Karte ist ein Remake der Map "Drachenpass aus HoMM I.
+  Das Prinzip ist einfach:
+  Einige Drachen bewachen eine Schnittstelle zwischen vier
+  Kontrahenten, die die Drachen erstmal besiegen müssen, um sich          gegenseitig zu bekämpfen.
+  
+  Im gegensatz zur Vorlage gibt es auf dieser Karte keine Chance, zum
+  Feind zu gelangen, ohne die Drachen zu besiegen.
+  Hier noch einige Infos:
+  -Die Anzahl der Drachen liegt bei 8 Stück und wächst nicht. Bei       meinem ersten Test warens auf einmal fünfundzwanzig und keiner ist     mehr durchgekommen... 
+  -Es besteht nicht die Chance, die Spells "Dimensionstor" und            "Fliegen" einzusetzen, das Artefakt "Engelsflügel" zu erhalten ist      ebenfalls verdammt unwahrscheinlich.
+  -Es gibt keine Spieler, die besondere Nach- oder Vorteile hätten,       oder für die die CPU vorgesehen ist.
+  -Die Städte sind nicht festgelegt, man kann seine Lieblingsstadt 
+  nehmen.
+  -Es gibt einen Gral, dieser ist NICHT in der Mitte unter den Drachen,
+  denn das wäre ja wohl zu einfach.
+  
+  O.K., jetzt hab ich alles erwähnt was wichtig gewesen wäre.
+  Ach ja, das ist meine erste Map. Die übrigen waren mir auf einmal       nämlich nicht mehr gut genug und fielen daher meinen (zu hohen)         Anforderungen an mich selbst zum Opfer.(Schade!) Aber ich hab noch      einige Entwürfe und so auf Lager... 
+  Mein HoMM 3 Rollenspiel wird erstmal auf Eis gelegt, denn ich brauche   erstmal Armageddons Blade wegen Campaign-Editor.
+  Bis dahin arbeite ich an meiner 8-Player Map "Tausen Fronten" weiter,   die in ca. drei Wochen fertig sein dürfte.
+  Für die Karte hier habe ich ungefähr 5h Bauzeit und 3H Testzeit         gebraucht. Wenn ihr irgendwelche Fehler findet, dann SCHREIBT MIR! 
+  Außerdem Grüße in den Drachenwald und an alle HoMM Spieler der Welt. 
+ 
+  Abgesehen davon bin ich sehr glücklich über Kritik/Lob oder Tips.
+  Schreibt an:
+ 
+  OZAMAH@GMX.DE
+  
+  Ah! Fertig. Jetzt muss ich erstmal Spellforce zocken und mir die neue 
+  Grip Inc. anhören.
+  CU,  
+  Ravenna
+
+  § Gesetz Gesetz Gesetz§
+  Diese Karte darf weitergegeben und weiterveröffentlicht werden,         solange dies unentgeltlich geschieht und diese Textdatei unverändert    dabei bleibt.

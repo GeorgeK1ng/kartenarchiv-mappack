@@ -1,0 +1,34 @@
+Map Name:	The Imp (THEIMP~1.H3M)
+Map Maker:	Tang Wen En
+E-Mail Address: p3dantic@yahoo.com.sg
+
+Map Type:	1H 1C
+Language:	Chinese... kidding ;-) English
+
+Description:	The Annoying Imp has somehow un-woven the protective forcefield around Stillwater and has spirited away the Orb of Silt. Bring the Orb and the Imp back to Stillwater to win. 
+
+Special Win:	Transport Artifact
+Special Loss:	Lose Hero
+Map Size:       Small
+Special Other:	This is a follow-up map of The Nighon Competition. But it developes a different character instead.
+
+Narrative:      You may find a little 'game' in the map. If you can't complete it then look at the 'hints' section.
+
+Play-Testers: Cattleman           cattleman@h3trio.com
+              Pogs	          marc.jacquemet@devinci.fr
+              Tsurani Great One   tsurani_great_one@hotmail.com
+              Brynner             lsbuay@singnet.com.sg
+
+HINTS/TIPS *SPOILERS*
+
+1. Defeating the manticores: Use your eyes... is there a place on the map where not so many stacks can attack at once? (I've a specific place in mind (not a corner). If you go to this place, it will be a 'two-front' battle instead of three.) Cure is your best friend in this battle. Hypnotize is good too, if you can find it... isn't necessary though.
+
+2. Defeating Velune: No specifics here (not really ;-P). DON'T FORGET TO REMOVE THE ORB OF INHIBITION!!! He gets to perform 1-2 resurrections. Take out the scorpicores and minotaurs first. (don't worry about the medusae, they'll run out of shots very fast.) The Archmage serves as a distraction and a spell cost reducing thingie. 
+
+3. Use your eyes and cursor to get at the Pandora's Boxes. EVERY ONE of them is accessable. 
+
+4. Water Magic is very useful...
+
+5. If you can't find the 'hidden' spells, looking in the thumbnail map can show you where the paths are.  
+
+6. Last battle: Resurrection is nice here. of course, finding it is a problem though... Hypnotized devils do nice damage.

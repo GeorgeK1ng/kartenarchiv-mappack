@@ -1,0 +1,39 @@
+
+Map Name:	Northern Darkness [NORTHE~1.H3M]
+Map Maker:	Tang Wen En
+E-Mail Address:	p3dantic@yahoo.com.sg
+
+Map Type:	1H 7C
+Language:	English =Þ
+
+Description:	The aurora borealis has sustained your kingdom's magic for generations, and now, it is fading. And, as always, the other lords are rising in rebellion, fool mortals that they are.
+Doesn't look promising, does it? 
+Well, fortunately,  you have heard of an artifact that will recharge your aurora.
+
+Special Win:	Build Grail Structure in Specific Castle
+Special Loss:	Lose Hero
+Special Other:	NONE
+
+Narrative:	The end may sometimes not successfully work as expected due to a programming bug of the AI, but it is not important, nor essential to win, it's just like icing to a most wonderful cake. =) Feedback please! =)
+
+Play-Testers:	Cattleman           cattleman@h3trio.com    
+                Chole               chole@h3trio.com
+                Greybeard           zowiepa@aol.com
+                Scrowe              simon_crowe@excite.com
+
+
+SPOILERS!
+-
+-
+-
+-
+Location of Obelisks: (0,5)   
+Above Ground          (31,13)
+                      (0,26)
+                      (26,28)
+                      
+Location of Obelisks: (2,8)
+Underground           (15,35)
+                      (35,22)
+                      (18,15)
+                      (21,1)

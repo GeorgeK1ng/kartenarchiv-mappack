@@ -1,0 +1,19 @@
+#====================- Downloaded from www.heroes3.org -====================#
+
+English			German			Info
+--------------------	-----------------	-----------------------------
+Name of Map		Name der Karte:		Dragon Island
+Author			Autor:			Dione
+Author's eMail 		eMail des Autors:	clrana@hotmail.com
+Mapsize			Kartengrösse:		XL
+Underground		Unterwelt:		No / Nein
+Difficulty		Schwierigkeit:		Hard / Schwer
+Player#			Spieleranzahl:		8
+Human players		Menschliche Sp.:	8
+Allied			Alliiert:		Yes / Ja
+Special Victory Cond.	Siegesbedingung:	Capture a Specific Town / 
+						Erobern einer bestimmten Stadt
+Special Loss Cond.	Verlustbedingung:	Time Expires / 
+						Verlust bei Ablauf der Zeit
+
+#====================- Downloaded from www.heroes3.org -====================#

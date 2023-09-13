@@ -1,0 +1,52 @@
+Map Information.
+
+Map Name: One Against All (filename.h3m)
+Map Maker: atlan
+E-mail Address: geschmann@gmx.de
+
+Map Type: Singleplayer, 1 Humans Only, 6 Computer Only
+Map Size: Large (with underground)
+Map Difficulty: Normal
+Game Version: Armageddon's Blade
+Map Version: 1.0
+Language: English
+Special Win: Standard (standard win allowed)
+Special Loss: Standard Only
+
+Special Other: none
+
+Playtesters: (Playtester_name) at 
+(any other playtesters here ...)
+
+Description: Battle and explore and battle
+
+Map Narrative: One Knight lives in a small valley with 2 towns. All his neigbours have big armies, but are well seperated by portals which they can not cross. Suddenly he spots a mysterious cavern, where famous wizards want to get his troops in exchange for ... 
+
+Notes for Players: go to the cavern, in parallel try to get shooters and beat your neighbour south asap. 
+
+Then it gets difficult...
+
+------------------------------------------------------------------------
+
+Optional Information
+
+
+Human-playable town-types:
+Castle
+
+Map Styles:
+Battle: Strong emphasis on combat tactics
+
+Websites at which map is posted:
+
+
+------------------------------------------------------------------------
+
+SPOILERS: WARNING!!! SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS: WARNING!!! SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS: WARNING!!! SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS: WARNING!!! SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+
+

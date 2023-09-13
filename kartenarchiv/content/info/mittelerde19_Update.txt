@@ -1,0 +1,48 @@
+Wichtige Änderungen zu den Vorgänger-Version "Mittelerde 1.9" und "Mittelerde 2.0"
+ 
+
+Diverse Truppenstärken/Stadtgarnisionen und Kreaturbehausungen, 
+vor allem im Verhältnis Kavalleristen (Rohan & Gondor) zu Schwarze Ritter (Nazgul)
+
+Den Einen Ring finden können nicht mehr die Nazgul (nur noch Saruman, Gollum & Bilbo)
+
+Helden im Gefängnis : 
+jetzt die vier jungen Hobbits statt drei Zwergen
+Arwen statt Glorfindel
+Legolas statt Thranduil
+
+neue Helden in Gefängnis in Valinor: Eonwe und Tulkas
+neuer Held im Gefängnis in Auenland: Lobelia Sackheim-Beutlin
+neuer Held im Gefängnis in Ithilien: Mablung
+
+Das Mathom-Haus ist jetzt von Bilbo zu öffnen
+
+Die Stadt Gobel Mirlond/Harondor gehört jetzt zu ROT
+
+Alle "Anfangs-Städte" haben jetzt eine Taverne, Jede Farbe nur einen Marktplatz, 
+neutrale Städte dafür jetzt meist ohne Taverne.
+
+Gefängnis von Smaug nicht mehr durch fliegenden Helden zu öffnen
+
+Gefängnisse in Angband mit Aufgabenwächter (2x nur Melkor ; 2x orangener Spieler) geschützt
+
+Die Ents im Fangornwald sind nicht mehr durch fliegende Helden zu erreichen
+
+Fähigkeit Fliegen für den Hexenmeister nicht mehr durch Artefakt Engelsflügel,
+sondern durch Zauberspruch Fliegen und damit nicht übertragbar
+
+Fliegen nicht mehr für Gandalf, sondern diejenigen Elben/Maiar/Valier, die Valimar betreten
+( geschützt durch Aufgabenwächter "Wissen 60" )
+
+Erst-Zutritt nach Aman/Valinor ausschließlich für Elben (violett) über Aufgabenwächter
+
+Helden aus Valinor im Gefängnis: nur noch durch Cirdan, Celeborn und Gandalf zu rekrutieren.
+
+Geographische Anpassungen und Richtigstellungen im Nebelgebirge (Carn Dum,Hoher Pass,Gramberg,Gollums Höhle),
+im Auenland , Harad, Mordor, Bruchtal , Valinor, Tol Eressa , Numenor,
+Melkors Gefängnis, in Utumno, Dwimorberg, im Untergrund 
+
+Überarbeitung vieler "getimten Ereignisse" in den Städten
+
+"Eigene Nachrichten" bei den Eigenschaften von Kreaturen auf die offensichtliche Maximalzahl verringert,
+um den Effekt der falsch angezeigten und eigentlich woanders editierten Meldungen zu vermeiden

@@ -1,0 +1,61 @@
+
+=======================================================================
+Map Name:      Augment
+Author:        Grigor Minchev
+Country:       Bulgaria
+E-mail Address:grig@abv.bg
+Date:          10 June 2003
+
+Map Type:      Singleplayer
+Map Size:      Extra-Large, with Underground
+Game Version:  HOMM3 WoG
+Language:      English
+
+Special Win:   NONE
+Special Loss:  Fail to win by month 12, week 4, day 7
+Special Other: NONE
+
+Map-Testers:   Otoss    -  0toss@rambler.ru
+               Max7     -  max7@mail.bg
+               Topalov  -  topaloff@abv.bg
+               Didka    -  didka19@abv.bg
+
+Description: 
+
+This map requires WoG version 3.57f or later and will not work 
+correctly with earlier versions of 3.57 (or with 3.56 or earlier).
+
+This is the tale of Sylvia and its friend Grig, who has the unusual 
+ability to upgrade dragons. 
+You start with 2 new Heroes - Grig and Sylvia.
+Grig upgraded Green Dragons or Gold Dragons, Red Dragons or Black 
+Dragons to Fire Dragons. 
+Sylvia upgraded Archers or Marksmen, Wood Elves or Grand Elves, Orcs or 
+Orc Chieftains and Lizardmen or Lizard Warriors to Sharpshooters. 
+Sharpshooters may be further upgraded to Lava Sharpshooters. 
+-----------------------------------------------------------------------
+2 new Artifacts:
+
+DOUBLE ATTACK SWORD - Held with the right hand, Double Attack Sword 
+increases your attack skill by +20, but reduces your power skill by 
+-20. This artifact allows double attack for all your troops. Hero gains 
+the ability to cast Titan's Lightning Bolt for 600 points of damage, 
+does not cost any spell points. 
+
+RING OF UPGRADES - This ring gives you power to upgrade your troops! 
+-----------------------------------------------------------------------
+Fire Dragons changes:
+                Old                            New
+Health        - 800                            600 
+Attack  Skill - 40                             36
+Defence Skill - 40                             36
+Resource Cost - 20000 Gold and 10 Crystal      20000 Gold and 9 Crystal
+                ---                            Flying
+                ---                            No Retaliation
+                ---                            Attack All Adjacent
+                ---                            Immunity to Fire Spells
+=======================================================================
+
+http://homm3maps.narod.ru
+http://free.bol.bg/homm3
+http://heroes3.hit.bg

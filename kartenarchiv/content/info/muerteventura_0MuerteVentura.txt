@@ -1,0 +1,24 @@
+Muerte Ventura V. 1.2
+------------------
+Du bist Roland, der unfreiwillige Held auf der Insel Muerte Ventura. Dein last minute gebuchtes Ferienhaus ist abgebrannt, und irgend jemand will verhindern, dass du bleibst und deine Nase zu tief in gewisse Vorgänge auf dieser Insel steckst.
+Es geht dabei um dubiose Immobilien-Machenschaften, korrupte Behörden und das Vermächtnis eines sagenumwobenen Piratenkapitäns aus alter Zeit.
+Schaffst du es, Unterstützung zu gewinnen, um auf der Insel zu bestehen? Allein wird es nicht gelingen, du musst möglichst bald ortskundige Verbündete finden...
+Doch welche uralten Geheimnisse erwarten dich in den Gegenden, die selbst von den Einheimischen seit Generationen abergläubisch gemieden werden?
+------------------
+Zu der Karte:
+Wer Blut-Schweiß-und-Tränen-Maps und Hardcore-Massenschlachten liebt, wird enttäuscht sein. Es springen auch keine unerwarteten Feinde aus dem Boden oder sonstwoher. Events dienen vollständig dem Fortgang der Story.
+Dies ist eine Rätsel-Karte mit dem Schwerpunkt "Suchen und Finden" (!), mit einem möglichst naturnah gestalteten Ambiente und einer (hoffentlich) unterhaltsamen Story. Kämpfen müsst ihr aber trotzdem ;-)
+Spieldauer ist etwa 100+x Tage (bei Schwierigkeit 200% - anders habe ich nicht getestet).
+------------------
+Ein paar grundsätzliche Tipps:
+1) Roland startet mit Artefakt, denn alle Ressourcen werden zu Spielbeginn genommen - unabhängig vom Schwierigkeitsgrad.
+2) Das Spiel-Menü: „Adventure Options“ >> „View World“ zeigt alle (auch versteckte) Artefakte und Ressourcen in Sichtweite des Spielers.
+3) auf der Karte vorhandene oder bei Kämpfen erbeutete Artefakte auf den Altären zu opfern, ist KEINE gute Idee. Fast alle werden für die zahlreichen Quests benötigt. Zufällige Artefakte, die in Schatzkisten, Gräbern oder bei Skeletten gefunden werden, können dagegen unbedenklich geopfert werden.
+4) Es lohnt sich oft, bei Seher-Hütten und Quest Guards ein zweites Mal anzuklopfen und nachzufragen.
+5) Alle Event-Texte und Wegweiser sollten sorgfältig gelesen werden. Insbesondere die Hinweise auf ZELTplätze (Camping/Campgrounds!)
+6) Hinterhöfe von Gebäuden jeder Art sind eventuell noch interessanter als das Gebäude selbst.
+7) Knappheit einer bestimmten Ressource? Wozu gibt es die ganzen Handelsposten?
+8) Bei Vera und Anna kommt es nur auf Schnelligkeit an (Pathfinding, Logistics); alle größeren Kämpfe sind Rolands Sache.
+
+Viel Spaß!
+DosPrompt

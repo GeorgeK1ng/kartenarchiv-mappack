@@ -1,0 +1,19 @@
+#====================- Downloaded from www.heroes3.org -====================#
+
+English			German			Info
+--------------------	-----------------	-----------------------------
+Name of Map		Name der Karte:		Luck of the Irish
+Author			Autor:			Jim Kyle
+Author's eMail 		eMail des Autors:	jkyle@connect.ab.ca
+Mapsize			Kartengrösse:		XL
+Underground		Unterwelt:		Yes / Ja
+Difficulty		Schwierigkeit:		Hard / Schwer
+Player#			Spieleranzahl:		8
+Human players		Menschliche Sp.:	7
+Allied			Alliiert:		No / Nein
+Special Victory Cond.	Siegesbedingung:	Defeat all Enemies / 
+						Besiegen aller Gegner
+Special Loss Cond.	Verlustbedingung:	Lose all your Towns and Heroes / 
+						Verlust aller Städte und Helden
+
+#====================- Downloaded from www.heroes3.org -====================#

@@ -1,0 +1,9 @@
+Falls jemand die Karte im Editor öffnet und "Validate Map" auswählt,wird er Fehlermeldungen bekommen.
+Die kann man ignorieren. Es funktioniert alles wie es sollte. Auch die Special victory Condition. 
+Zwar könnte ich hier erklären,warum diese Fehlermeldungen kommen,doch würde ich da etwas vom Spielspaß
+wegnehmen.
+
+Ansonsten ist die Karte wie ein großes Abenteuer.Viele Questen und Anspielungen auf literarische Werke,
+die dem einen oder anderen sicherlich ein Schmunzeln entlocken werden.
+
+Viel Spaß

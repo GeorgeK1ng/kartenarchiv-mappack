@@ -1,0 +1,29 @@
+Map Name:	Epic
+Map Maker:	Dark Schneider (Rivien Alan Swanson)
+E-Mail Address:	DrkSchnedr@aol.com
+
+Map Type:	Single Player: 1 human only, 6 comp only.
+Language:	 English
+
+Description:	It's your sixteenth birthday and to celibrate you inherit your father's war with the baron to the southeast, are prophesized to be the Hero of Legend, and hear of the growing power of the Elemental Lords. What's more, legend says they are merely pawns for a stronger force.... 
+
+Special Win:	None 
+Special Loss:	None
+Special Other:	None
+
+Narrative: I think the timed events and tavern rumours do this quite well. Besides, I can't spoil the story...that's half the map! I made it to play like an RPG for a reason.
+
+Play-Testers:	
+Lok (mferry@cais.com)
+RedRaven (UnaRaven@aol.com)
+Lizard King (deathbynews@hotmail.com)
+Jesse (alibiii@yahoo.com)
+
+		What this release fixes: Elemental Lords in the Soul Prisons made to be worth a damn, Necro Champ now given opposition to prevent 7,000 skeleton growth, Forgotten Hut of the Magi put in at end of map, lake town now permanently a Rampart, the last few typos eliminated, several thousands furbies and teletubbies slaughtered, and the end of the world and the rise of communism prevented :o)
+
+
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+The Grand Elves to the east are set on "compliant". Make sure to make use of them. 

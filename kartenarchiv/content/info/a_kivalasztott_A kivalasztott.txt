@@ -1,0 +1,17 @@
+
+                   MAGELLAN'S MAP SUBMISSION
+
+Map Name:	A kivalasztott
+Map Maker:	KTibsza (Tibor Korsos)
+E-Mail Address:	jedi@vipmail.hu or ivor_the_ranger@freemail.hu
+
+Map Type:	XL Multiplayer; 1 Human & 7 Computer
+Language:	Hungarian
+*** Requires H3 Restoration of Eratia ***
+
+Description:	A bolcsek teged es a kiralynot valasztottak ki a vilag bekejenek megorzesere. Ehhez azt kell tenned, hogy a haboruparti ellensegeket gyozd le. Szam szerint hetet, mint a gonoszok, annyian vannak. Ha nyertel ujra beke honol a vilagban.
+
+Special Win:	NONE
+Special Loss:	Time Expires: 12 Months
+Special Other:	NONE
+              	

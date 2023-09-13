@@ -1,0 +1,29 @@
+
+Map Name:	Sentinel Recognition (SENTIN~1.H3M)
+Map Maker:	Tang Wen En, fiery phoenix
+E-Mail Address:	p3dantic@yahoo.com.sg
+Map Type:	1H 1C
+Language:	English
+
+Description:	You hate cheaters, especially if it's your brother. You unleash mighty punishment on cheaters. 
+Especially if it's your brother.
+
+Special Win:	Acquire Artifact
+Special Loss:	Time Limit
+Special Other:	Losing the hero Dharmy at the beginning or mid game makes the map unplayable. 
+                Do NOT try to take over the enemy's main castle. Instant death will follow.                 Killing the main enemy hero is alright though (even if the text may seem a tad                 ambigious.)
+                The spell 'Slow' has been disabled to give you a greater challenge. But if you                 still want it *shrug* go enable it  in the editor (though this will make you a                 cheater and the game easier (but not THAT much easier!) 
+                There are no taverns (hence losing Dharmy will make it unplayable).
+                
+
+Play-Testers:	Amigos Para Siempre  (kevlim@netscape.net)
+                Chole *hugzz* =)     (Chole@h3trio.com)
+                Cattleman *mooo*     (cattleman@h3trio.com)
+                Greybeard            (Zowiepa@aol.com)
+                TGO *=Þ*             (tsurani_great_one@hotmail.com)
+
+
+A small insignificant challenge (which has no relation to the storyline): try and find a hidden Garden of Revelation. It's somewhere in the swamp area. =)
+                
+
+

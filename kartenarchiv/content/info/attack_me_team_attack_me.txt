@@ -1,0 +1,46 @@
+Heroes III Map Information File
+
+Map Name:       Attack of the most Evil(Team)
+File Name:	attack_me.h3m
+Map Version:	1.01
+
+Map Maker:      Dieter Averbeck aka Darksir Ditje
+E-Mail Address: dieter@byteware.de
+
+Map Type:       Multi Player - 2 Human or Computer, 3 Computer Only
+Map Size:       Medium, 2 levels
+Map Difficulty: Normal
+Language:       English
+Version:        WoG 3.57
+
+
+Description:    A special for hot seat playing and wogifying prepared map. You 
+		have to do real team play to win this scenario. There is a short
+		but not relevant story. Read it or not :))
+
+
+Special Win:    None
+Special Loss:   None
+
+
+Map Tips:       1. You must have skill and artifact boost activated
+
+                2. every other wogify scritps as you prefer
+
+                3. Don`t use following Rules:
+		- Heroes start at Level 5
+		- Mines changes resoures every week
+
+
+Map-Testers:    me ;) I played Hot Seat alone and it gave me a lot of fun :))
+
+
+
+Spoilers:	There are some, but do you really want to know ;)
+
+
+
+Have fun and feel free to mail me respondse :)
+
+
+Darksir Ditje

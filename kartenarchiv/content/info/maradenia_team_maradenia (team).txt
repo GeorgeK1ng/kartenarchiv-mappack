@@ -1,0 +1,17 @@
+Name der Karte:		Maradenia (Team)
+Author:			Dirk Fibian (scicco@scarab-amiga.com)
+Kartengrösse:		L
+Unterwelt:		Ja
+Schwierigkeit:		Hard
+Spieleranzahl:		7
+Menschliche Sp.:	6
+Alliiert:		Ja (2v2v2)
+Siegesbedingung:	Held besiegen
+Verlustbedingung:	Verlust aller Städte und Helden
+
+Beschreibung:
+
+Die Welt ist in Sorge, seit der Dämonenherrscher Dormugat eine
+unglaubliche Macht an sich gerissen hat und eine Armee züchtet,
+die alles Leben vernichten soll. Stellt Euch Aufgaben in den
+Ländern der Welt, jedoch läßt keiner gern Fremde in sein Land...

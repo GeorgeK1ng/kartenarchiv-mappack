@@ -1,0 +1,33 @@
+===== Map name =====
+Capture the castle
+
+===== Map description =====
+Alle Helden wollen nur eines, das versteckte prachtvolle Schloss Behas...doch wird es so leicht sein dieses zu erobern?
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(13, 4, 0) ***Random Town***
+Name:
+Behas
+
+(13, 6, 0) ***Event***
+Message:
+Schaffst du es dieses Schloss zu erobern?
+
+(18, 0, 0) ***Gold***
+Message:
+Du hast es dir verdient!
+
+(55, 69, 0) ***Event***
+Message:
+Buuuuhhhhhhh!!!!!!
+
+(88, 17, 0) ***Event***
+Message:
+Du gehst deines Weges, plötzlich wird alles in Schatten getaucht....du schaust nach oben und siehst....
+
+===== End of file =====

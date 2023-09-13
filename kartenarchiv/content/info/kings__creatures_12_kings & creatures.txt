@@ -1,0 +1,28 @@
+Title: 					Kings & Creatures
+Type: 					1on1
+Game: 					Heroes of Might and Magic III 
+Expansions:			The Shadow of Death
+Author: 				Gunnar
+Author's eMail:	gunnar@drachenwald.net
+Homepage:				http://www.drachenwald.net
+Files: 					kings & creatures 1.2 (en).h3m
+								kings & creatures 1.2 (de).h3m
+Size: 					30 KB each
+Gameplay: 			2 human or computer players
+Allies: 				none
+Map size: 			Medium
+Underground:		Yes
+Language: 			English & German
+Version: 				1.2 (released 2007-11-27)
+Testers: 				MysticPhoenix, SirGauvain, SilVi and others
+Translation:		Tedil & Gunnar
+
+Notice:					none
+
+
+**************************************************
+
+More maps at: 	http://www.kartenarchiv.de (mostly german maps)
+
+**************************************************
+

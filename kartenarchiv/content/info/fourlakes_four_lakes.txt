@@ -1,0 +1,8 @@
+Name: four lakes
+Players: rampart, castle
+card size: small
+win condition: build the grail structure or defeat your opponent
+loss condition: loose all towns and heroes
+basic information: there is only two ways to pass the mountains to get into the opponent's land. both players have similar numbers of mines and treasury.
+
+created by Jan Stephan Pontzen (jan_stephan@pontzen.de)

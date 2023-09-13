@@ -1,0 +1,17 @@
+
+                   MAGELLAN'S MAP SUBMISSION
+
+Map Name:	Dragon Queen
+Map Maker:	KTibsza (Tibor Korsos)
+E-Mail Address:	jedi@vipmail.hu or ivor_the_ranger@freemail.hu
+
+Map Type:	L Multiplayer; 6 Human
+Language:	English
+*** Requires In the Wake of Gods ***
+
+Description: Aquire two Rust Dragon to the victory! To this must aquire Mutare the Dragon Queen.
+
+Special Win:	Accumulate 2 Rust Dragon
+Special Loss:	Time Expires 12 Months
+Special Other:	NONE
+              	

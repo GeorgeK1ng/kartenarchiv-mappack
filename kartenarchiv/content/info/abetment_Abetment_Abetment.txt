@@ -1,0 +1,24 @@
+
+=======================================================================
+Map Name:      Abetment
+Author:        Grigor Minchev
+Country:       Bulgaria
+E-mail Address:grig@abv.bg
+Date:          23 June 2003
+
+Map Type:      Multiplayer
+Map Size:      Large, with Underground
+Game Version:  HOMM3 SoD
+Language:      English
+
+Special Win:   NONE
+Special Loss:  NONE
+Special Other: NONE
+
+Map-Testers:   Otoss    -  0toss@rambler.ru
+               Max7     -  max7@mail.bg
+=======================================================================
+
+http://homm3.nm.ru
+http://free.bol.bg/homm3
+http://heroes3.hit.bg

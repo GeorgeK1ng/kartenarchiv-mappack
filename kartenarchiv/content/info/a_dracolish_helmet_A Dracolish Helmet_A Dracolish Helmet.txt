@@ -1,0 +1,56 @@
+
+=======================================================================
+Map Name:      A Dracolish Helmet
+Author:        Grigor Minchev
+Country:       Bulgaria
+E-mail Address:grig@abv.bg
+Date:          12 June 2003
+
+Map Type:      Singleplayer
+Map Size:      Extra-Large, with Underground
+Game Version:  HOMM3 WoG 3.57f
+Language:      English
+
+Special Win:   NONE
+Special Loss:  Fail to win by month 12, week 4, day 7
+Special Other: NONE
+
+Map-Testers:   Otoss    -  0toss@rambler.ru
+               Max7     -  max7@mail.bg
+               Didka    -  didka19@abv.bg
+
+Description: 
+
+This map requires WoG version 3.57f or later and will not work 
+correctly with earlier versions of 3.57 (or with 3.56 or earlier).
+
+This is the tale of Grig and its friends Sylvia and Darkllus. 
+Grig can upgrade Dread Knights or Blood Dragons to Dracolishes. 
+Sylvia can upgrade Wights and Wraiths to Ghosts. 
+Darkllus can upgrade Walking Dead or Zombies to Mummies.
+-----------------------------------------------------------------------
+2 new Artifacts:
+
+DRACOLISH HELMET - Dracolish Helmet allows double attack for all your 
+troops. This artifact increases your knowledge skill by +21, but 
+reduces your attack skill by -7, defense skill by -7 and power skill by 
+-7. All opponents have these spells effective on them for 50 turns: 
+Slow, Curse, Weakness, and Misfortune. 
+
+HOURGLASS OF ASMODEUS - This item negates all Luck bonuses during 
+combat for both you and your opponent. Hero gains the ability to cast 
+spells Animate Dead and Resurrection.
+-----------------------------------------------------------------------
+New Monster - DRACOLISH: 
+Health        - 800 
+Attack        - 35 
+Defense       - 45
+Damage Low    - 50 
+Damage High   - 80 
+Speed         - 16 
+Resource Cost - 20000 Gold and 10 Mercury 
+=======================================================================
+
+http://homm3maps.narod.ru
+http://free.bol.bg/homm3
+http://heroes3.hit.bg

@@ -1,0 +1,17 @@
+
+                   MAGELLAN'S MAP SUBMISSION
+
+Map Name:	A magia ereje
+Map Maker:	KTibsza (Tibor Korsos)
+E-Mail Address:	jedi@vipmail.hu or ivor_the_ranger@freemail.hu
+
+Map Type:	XL Multiplayer; 1 Human & 4 Computer
+Language:	Hungarian
+*** Requires The Shadow of Death ***
+
+Description: Mint ifju magus, azt hiszed, hogy mindent tudsz a varazslatok tudomanyarol. Ezt azzal tudod bizonyitani, hogy legyozod azt a negy akadalyt, amit eled allitottam.
+
+Special Win:	NONE
+Special Loss:	NONE
+Special Other:	NONE
+              	

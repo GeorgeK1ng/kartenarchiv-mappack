@@ -1,0 +1,19 @@
+#====================- Downloaded from www.heroes3.org -====================#
+
+English			German			Info
+--------------------	-----------------	-----------------------------
+Name of Map		Name der Karte:		Search for the Fallen Gods
+Author			Autor:			White Raven
+Author's eMail 		eMail des Autors:	wraven@milehigh.net
+Mapsize			Kartengrösse:		L
+Underground		Unterwelt:		Yes / Ja
+Difficulty		Schwierigkeit:		Normal
+Player#			Spieleranzahl:		5
+Human players		Menschliche Sp.:	1
+Allied			Alliiert:		No / Nein
+Special Victory Cond.	Siegesbedingung:	Defeat all Enemies / 
+						Besiegen aller Gegner
+Special Loss Cond.	Verlustbedingung:	Lose all your Towns and Heroes / 
+						Verlust aller Städte und Helden
+
+#====================- Downloaded from www.heroes3.org -====================#

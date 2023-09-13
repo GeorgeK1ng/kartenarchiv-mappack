@@ -1,0 +1,33 @@
+
+Map Name:	[Necrophilic Rally]  
+Map Maker:	[Natasha F.]
+E-Mail Address:	[nf2503@rambler.ru]
+
+Map Type:	[Singleplayer] [1 Human Only, 6 Computer Only]
+Language:	[English ]
+
+Description:	XXL, Impossible level, Single Player
+	                  
+
+Special Win:	[None]
+Special Loss:	[None]
+Special Other:	[None]
+
+
+
+
+
+
+SPECIAL ACKNOWLEDGEMENTS: to O.K. who generated many ideas of this Necrophilic Rally
+
+
+MORE:                  This map was produced basing on somebody's earlier map Vulcanian Archipeligo.h3m, 
+                               which I downloaded elsewhere just with the purpose to realize several ideas. 
+
+                               Original map is also included  - and many thanks to it's authors!
+
+                               Contact e-mail: nf2503@rambler.ru   (07.01.09)
+
+
+
+

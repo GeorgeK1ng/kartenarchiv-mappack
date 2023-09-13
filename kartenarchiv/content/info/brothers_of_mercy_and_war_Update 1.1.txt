@@ -1,0 +1,47 @@
+Änderungen zur Version 1.0
+=============================================================================================
+Version 1.1 von Alexander Fuchsberger                                         von 01.05.2009
+---------------------------------------------------------------------------------------------
++ Held Gem wurde deaktiviert, da der Spruch "Boot herbeirufen" nur durch einen Auftrag
+  erhalten werden sollte..
+
++ Für einen Quest wurden bislang die 4 Bücher der Magie benötigt. Das Buch der Luftmagie
+  wurde durch die Viole des Drachenblutes ersetzt, da ansonsten die Zaubersprüche "Fliegen"
+  sowie "Dimensionsportal" möglich wären.
+
++ Sämtliche Zaubersprüche der Stufe 5 können, wenn überhaupt, nur an bestimmten Orte erlernt
+  oder mittels bestimmten Helden ins Spiel eingebracht werden.
+
++ Die Questbedingte Person "Kjiara" wurde als Heldin eingefügt und wird später auch für
+  gewisse Aufträge benötigt. Sie sollten darauf achten, sie nicht sterben zu lassen.
+
++ Das Event das dazu führt dass alle 2 Wochen sämtliche Ressourcen abgegeben werden müssen,
+  wird ab dem 4. Monat wöchentlich stattfinden, um die Schwierigkeit noch weiter zu erhöhen.
+
++ Die Grenzsteine werden sich nun nach ca 1,5 Jahren (Spielzeit) öffnen. Somit soll vermieden 
+  werden, dass sich der Spieler zuviel Zeit am Anfang beim Aufbau lässt und damit das Ende
+  unerreichbar wird, ganz einfach weil die Kreaturenanzahln in der Wildnis viel zu hoch sind.
+
++ An einigen Stellen wurden zusätzliche Storytexte hinzugefügt.
+
++ Diverse Schönheits-, und Rechtschreibfehler wurden berichtigt.
+
+=============================================================================================
+Version 1.0 von Alexander Fuchsberger                                         von 03.09.2007
+---------------------------------------------------------------------------------------------
++ Ursprüngliche Version der Karte
+
+
+
+
+ANMERKUNG!!
+
+=============================================================================================
+Version 2.0 von Abbadon / CloudTempel
+---------------------------------------------------------------------------------------------
++ Diese Version ist eine Erweiterung von Cloudtempel, welche allerdings komplett andere
+  Spieltaktiken vorraussetzt aber auch ermöglicht. Optisch ist die Karte fast ident,
+  jedoch bleiben gewisse Fehler und unerwünschte Möglichkeiten offen die ich mit dem
+  Update eliminiert habe.
+
++ Diese Karte ist auf www.kartenarchiv.de unter "Brothers of Mercy and War 2" zu finden.

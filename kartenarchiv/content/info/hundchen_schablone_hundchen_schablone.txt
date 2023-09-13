@@ -1,0 +1,14 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Hundchen (Schablone) (Hundchen (Schablone).h3m)
+Autor:	Gunnar
+eMail:	gunnar@kartenarchiv.de
+
+Info:   DIE KARTE IST SO NICHT SPIELBAR !!!
+        Es ist lediglich eine Karte mit einem netten Umriss, bzw einem Motiv
+        als Vorlage. Diese Map darf frei für die Erstellung eigener Karten 
+        genutzt werden. Bitte erwähnt dann in der readme.txt, dass die Form 
+        von mir stammte. Danke. :)
+

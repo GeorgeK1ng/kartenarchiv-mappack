@@ -1,0 +1,37 @@
+Name der Karte : Stimmen des Schicksals 
+Typ  der Karte : Restoration of Erathia
+Autor          : Robert Klaus (robbisound@web.de)
+Größe          : XL
+Unterwelt      : Ja
+mensch. Spieler: 1
+Computerspieler: 4
+Schwierigkeit  : Experte
+Siegesbedingung: Artefakt transportieren
+Story          : Ja
+
+Beschreibung   : Stimmen des Schicksals ist eine vielfältige Map. Zwar ist der Verlauf linear,
+                 das heißt, es gibt einen Anfang und ein festgelegtes Ende. Die Map selbst enthält
+                 aber ein Gebiet, welches sich auch für Multiplayerspiele eignen würde.
+                 Ich habe die Map mit möglichst wenig Computergegnern entworfen, damit die 
+                 Wartezeiten nicht so lang sind.
+                 
+Geschichte     : Du erwachst eines Tages aus einem Traum, in dem eine Stimme zur dir sprach.
+                 Sie sprach von einer bösen Macht, die auf dich zukommt. Du weißt aber nicht,
+                 was du machen sollst. Deine Städte haben sich der Landwirtschaft zugewand.
+                 Dennoch schenkst du der Stimme Glauben und ziehst durch eine Welt, die zuvor
+                 noch niemand gesehen hat.
+
+Update 2009/12 : Die Originalmap stammt vom aus dem März 2005. Ich weiß noch, dass ich damals 
+		 Tag für Tag mit dem Erstellen der Map zugebracht habe. Darauf folgten Testspiele
+		 und die Map wurde sehr ausgewogen. Nun fast Jahre später, im Dezember 2009, spielte
+		 Ich die Map wieder. Sie bereitete mir selbst große Freude und gab sehr viel zu entdecken.
+		 Teils, wie die Kritik schon sagte, waren die Gegner etwas leicht überwindbar.
+		 Das habe ich nun angepasst. Es gibt ein paar kleine weitere Änderungen und Ereignisse.
+		 Jedoch ist die Map die gleiche geblieben und ein Stück näher an eine perfekte Map gerückt.
+		 Die schlechte Bewertung kann ich leider nicht ganz nachvollziehen. Die andere Map 
+		 "Kiaras Reise", welche ich gestaltet habe hat eine höhere Bewertung, ist aber nicht mal 
+		 annähernd so gut wie diese hier. Verbesserungs vorschläge nehme ich gerne entgegen:
+		 robbisound@web.de
+		 Beste Grüße udn viel Spaß beim Spielen!!!
+
+		 Robert

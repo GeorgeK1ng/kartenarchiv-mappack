@@ -1,0 +1,30 @@
+
+
+
+
+Map name:     A Picture on my Wall
+Author:       Coconut
+Email:        RythmnBlues666@aol.com
+Version:      1.0
+Date:         Januari 2011
+Map size:     Large (107 x 107), surface + underground
+Game:         Heroes 3 Shadow of Death
+Language:     English
+Players:      6, all playable by human
+Type:         Single player or multiplayer 
+Teams:        No
+Game object:  Defeat all enemies
+Special win:  None
+Special loss: None
+
+Introduction:
+The passing of a former army general leaves many questions unsolved, battles start to erupt over his inheritance while Uland gets in a pickle.
+Who can unravel the mysteries around Loch Eleanor?
+
+Additional info (no spoilers):
+This is an old school map, where you start from humble beginnings. With no fort to begin with, choosing 200% will give a very slow start, 160% can already make for a fairly smooth start with some luck. The developing and choice of your starting heroes is in your own hands. Castles, heroes, artefacts and resources have mostly been set to random.
+Some spells have been disabled or made extremely rare: Fly, Dimension Door and Town Portal.
+
+
+
+

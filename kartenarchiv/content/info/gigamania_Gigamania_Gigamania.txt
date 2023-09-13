@@ -1,0 +1,88 @@
+Hallo,
+
+diese Karte ist als reine Multiplayer-Karte konzipiert und erstellt. Jeder Spieler
+hat die gleichen Vorraussetzungen, sie macht im Multiplayer wirklich Spass!
+Spielbar ist sie übrigens ab 2 Spielern, aber zu 8 ist sie natürlich der Wahn.
+
+Nun ist es so: Normalerweise sind Multiplayerkarten für den Einzelplayer uninteressant,
+weil der Computer aus seinen Vorraussetzungen nichts macht. Er bleibt einfach zu schwach.
+
+Nun ist es hier so: Dank eines kleinen Tricks im Editor hat der Computer hier einen Vorteil
+zu einem menschlichen Spieler. Es gibt einen "Bug" im Spiel, den ich ausnutze. Wer wissen 
+will wie, der scrollt jetzt einige Zeilen runter, der wird aber einen kleinen Einblick in 
+das Wesen der Karte bekommen. Also besser ists: Erst spielen, dann lesen!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Der Trick ist folgender:  Der Computer "schert" sich nicht darum auf welchem Boden er steht. 
+Das heisst, wenn der Boden ein reiner "Stufe-1-Zauber-Boden" ist, (der mit den Knochen und 
+Skeletten drauf), so kann ein Mensch KEIN Stadtportal zaubern, der Computer jedoch sehr wohl.
+So ist es dem PC, im Gegensatz zu einem "echten" Spieler, möglich, Kreaturen aus Burgen zu 
+holen, die dem menschlichen Spieler erst einmal versagt bleiben. Dieser Bonus gleicht zu 
+Anfang die "Schwäche" des Pcs aus.
