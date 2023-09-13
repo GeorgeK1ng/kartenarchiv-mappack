@@ -1,0 +1,170 @@
+Map: Östliche Königreiche
+
+Version 1.0 18.10.09/23:45 -Betaphase-
+
+- Die Stadt der Menschen hat nun keinen Zufallsnamen mehr.
+- Im ersten Quest wurde ein Fehler korrigiert.
+- Die Q im Rotkammgebirge und im Dämmerwald sollten nun auslösen.
+- Man kann nun den grünen Wachposten zum Schlingendorntal nicht mehr passieren, ohne vorher mit dem Schlüsselmeister gesprochen zu haben.
+- Der Drache im Dämmerwald wurde an das Level der Zone angepasst. Man trifft jetzt nur noch auf einen Drachen, anstatt auf fünf.
+- Sturmwind verfügt nun von Beginn an über ein Kreisrathaus, einen Marktplatz, eine Schmiede, eine Zitadelle und eine Magiergilde.
+
+
+Version 1.1 22.10.09/00:08 -erweiterte Beaphase-	
+
+- Die Q im Rotkammgebirge wurde nochmals fixiert uns sollte nun auslösen.
+- Der Drache im Dämmerwald wurde aufgrund des Aufbaustatus' Sturmwinds wieder gebufft. Man trifft jetzt auf 4 Drachen.
+- Beim Seher im Dämmerwald erhält man nun nicht mehr den Managlücksbringer, sondern lernt den Spruch Stadtportal. (Zauberbuch dabei haben!)
+- Hochexekutorin Darthalias Quest im Alteracgebirge sollte nun auslösen.
+- Die Quest im Vorgebirge des Hügellands wurde umplatziert, um ein 'vorbeireiten' zu unterdrücken.
+- Die Ressource an der Flussgablung im Vorgebirge des Hügellands ist nun erreichbar.
+- Magister Surdiel in den Westlichen Pestländern sagt nun korrekterweise "Heimatstadt".
+- Alle Gegner in den Westlichen und Östlichen Pestländern wurden vom Schwierigkeitsgrad her angepasst.
+
+Mögliche Probleme:
+- Es kann sein, dass die Abschlussquest im Schlingendorntal am Blauen Schlüsselzelt nicht korrekt auslöst.
+- An der Skalierung der Schwierigkeit der Bosse in Zul'Gurub wird noch gearbeit. Unter Umständen können die Bosse nur mit einer äußerst starken Armee besiegt werden.
+- Die Quest in Westfall von Hauptmann Starkmantel ist fehlerhaft. An einer Lösung wird gearbeitet.
+
+
+Version 1.1b 23.10.09/00:27
+
+- Die Quest zwischen dem Rotkammgebirge und dem Dämmerwald wurde so platziert, dass sie auch auslösen kann.
+- Im Kampf gegen Lord Kazzak trifft man jetzt auf 250 Urbehemoths, anstelle von 500.
+- Die Anzahl der Kriegseinhörner im letzten Teil von Zul'Gurub wurde von 500 auf 250 setzt.
+- Im Kampf gegen den Blutgott Hakkar trifft man jetzt nur noch auf 750 Wyvernkönige, anstelle von 1250.
+- An der Garnision im Sumpfland sollte man nun nicht mehr vorbeilaufen können.
+- Im Kampf gegen Serpenta trifft man nur noch auf 450 Chaoshydren, anstelle von 750.
+- Im Kampf gegen Todesschwinge trifft man nur noch auf 400 Schwarze Drachen, anstelle von 800.
+
+Mögliche Probleme:
+- Die Quest in Westfall von Hauptmann Starkmantel ist immer noch fehlerhaft. An einer Lösung wird weiter gearbeitet.
+- Die Instanzen 'Sonnenbrunnenplateau' und 'Dalaran' sind noch nicht ausreichend getestet wurden. Es kann daher zu äußerst harten Bossbegegnungen kommen.
+- Die Abschlussquest am Blauen Schlüsselzelt des Schlingendorntal löst ab und zu nicht korrekt aus. An einer Umplatzierung wird nun gearbeitet.
+
+
+Version 1.2 26.10.09/10:18
+	
+- Es wurden überall auf der Karte kleine Schönheitsfehler behoben.
+- Die Quest von Hauptmann Starkmantel in Westfall wurde entfernt.
+- Alle Gegner in den Instanzen wurden bearbeitet. Die Anzahl wurde stark reduziert und das Wachstum ausgeschaltet.
+- Das Schlüsselzelt im Sumpfland ist nun schwarz, um es vom hellblauen besser unterscheiden zu können.
+- Um durch das Untergrundportal gehen zu können, wird nun der schwarze Schlüssel benötigt. Der Schlüsselmeister befindet sich in den verwüsteten Landen.
+- Die Werft in Westfall wurde entfernt. Anstelle findet man jetzt gleich ein Boot.
+- Das hellblaue Schlüsselzelt in Westfall wurde umpositioniert.
+
+
+
+Version 1.3 26.10.09/15:03 -Dalaranversion-
+
+- Die erste Quest im Wald von Elwynn löst nun korrekt aus.
+- Die Gegnergruppe vor dem Edelsteinteich im Wald von Elwynn wurde fixiert.
+- In Zul'Gurub ist es nun nicht mehr möglich kurz vor Orko durch den Wald zu laufen und somit einen Großteil der Gegner zu umgehen.
+- Die problembehaftete Quest zwischen den Dämmerwald und dem Rotkammgebirge wurde nun so fixiert, das ein vorbeireiten ausgeschlossen ist. Das Terrain wurde dafür geringfügig geändert.
+- Der Kampf mit Blutgott Hakkar ist nun schwieriger. Man kämpft nun gegen 150 Wyvernkönige, anstelle von nur 50.
+- Die Kriegseinhörner in Zul'Gurub fliehen nun nicht mehr.
+- Man kann nun im Wirbelnden Nether nicht mehr an einem Gegner vor Legionskommandant Araxis vorbeireiten.
+- Die Quest am Ende des Sumpflandes wurde wieder zurückplatziert.
+- Im Pechschwingenhort versteckt sich nicht länger eine Hydra hinter dem Rauch des Vulkans.
+- Todesschwinge sagt nun korrekterweise: "Fleht" und nicht "Flieht".
+- Am Violetten Schlüsselturm im Vorgebirge des Hügellands kann man nicht mehr vorbeireiten.
+- Die Stadt Silbermond wurde auf Grund des Spielfortschritts angepasst. Viele Gebäude sind nun schon gebaut.
+- Madrigosa auf der Insel von Quel'Danas wurde so platziert, dass man keine Probleme mehr beim anlegen mit dem Schiff haben sollte.
+- Man startet jetzt mit einem festen Helden und einer festgelegten Armee!
+- Die Instanz Dalaran wurde komplett überarbeitet. Man gewinnt nun den Eindruck von einer Stadt eher. Die Gegner wurden der Schwierigkeit entsprechend nochmal etwas vereinfacht.
+
+
+Version 1.4a 03.01.10/19:55
+
+- Die Hauptstadt der Blutelfen heißt nun korrekterweise Silbermond.
+- In der Instanz Dalaran ist die Kriegsmaschinenwerkstatt nun nicht mehr erreichbar.
+- Die Stärke von Legionsführer Araxis wurde von 40 auf 25 gesenkt.
+- Es ist nun nicht mehr möglich an Gebirgsjäger Boradins Quest im Ödland vorbei zulaufen.
+- Das Schiffungsgebiet nahe des Ödlands wurde eingeschränkt. Gegenstände wurden hinzugefügt.
+- Anstelle der Werft auf der Halbinsel Theramore befindet sich nun eine Hügelfestung.
+- Die Werft in den Geisterlanden wurde entfernt.
+- Die Gebiete für die Seefahrt wurden so gestaltet, dass sinnloses Segeln nicht mehr möglich ist. Boote herbeirufen sollte nur in der Nähe von Werften erfolgen, da es nur dort sinnvoll ist.
+- Für die Belohnungen in Instanzen nach Bosskämpfen (höhere Artefakte und Relikte) muss nun nicht mehr gekämpft werden.
+- Die Instanz Sonnenbrunnenplateau bereitet immer noch Schwierigkeiten. Es wird an einer Umgestalltung bearbeitet. Die Instanz wurde vorrübergehend geschlossen. Der Obelisk befindet ich nun an der Stelle, wo vorher das Instanzportal zu finden war.
+
+
+Version 1.4b 04.01.10/13:28 -Sonnenbrunnenplateauversion-
+
+- Die Instanz Sonnenbrunnenplateau ist nun, komplett neugestaltet, wieder eröffnet. Vor den Bossen sind nun kleinere Gegner zu finden. Die Bossbegegnungen wurden angepasst. Der Kampf gegen Lady Sacrolash und Großhexenmeisterin Alythess löst nach wie vor durch ein Ereignis aus.
+- Die Stärke von Mal'tok wurde von 175 auf 100 gesenkt.
+- Die Stärke von Ältester Rindenherz wurde von 125 auf 100 gesenkt.
+- Die Stärke von Blutgott Hakkar wurde von 150 auf 120 gesenkt.
+- Die Stärke von Schlangenkönig Jeklik wurde von 400 auf 200 gesenkt.
+- Die Stärke von Königshydra Serpenta wurde von 80 auf 40 gesenkt.
+- Die Stärke von Todesschwinge wurde von 30 auf 20 gesenkt.
+- Lord Bolvar hat nun von Anfang an ein Zauberbuch, damit der Zauberspruch Stadtportal beim Seher im Dämmerwald wirklich gelernt werden kann.
+- Alle Questtexte wurden nochmals überarbeitet und modifiziert.
+
+
+Version 2.0 31.03.10/23:06 -Aufbruch in die Scherbenwelt-
+
+- Ein neues Szenario "Aufbruch in die Scherbenwelt" steht nun zum Download bereit. Es schließt storytechnisch an die erste Karte "Östliche Königreiche" an. Das Ziel ist es diesmal, Lord Illidan, den Anführer der Scherbenwelt und der Brennenden Legion zu vernichten.
+"Östliche Königreiche"
+- Es wurden kleine Schönheitsfehler korrigiert, die für den Spielfluss weniger bedeutend sind.
+"Aufbruch in die Scherbenwelt"
+- Um die Zwerge im Rotkammgebirge, kann man nun nicht mehr herumreiten.
+- Die Anzeige für den Gebietswechsel zwischen Wald von Elwynn und dem Rotkammgebirge löst nun permanent aus.
+- In der Höllenfeuerzitadelle spawnen nun keine Items der Stufe 4 mehr. Die Anzahl der spawnenden Items wurde auf 1 gesenkt.
+- Im Echsenkessel spawnen nun keine Items der Stufe 4 mehr. Die Items bei Lady Vashj wurden durch Items der Stufe 3 ausgetauscht. Bei jedem Boss spawnt ein Item weniger.
+- In der Festung der Stürme spawnen nun keine Items der Stufe 4 mehr.
+- Der Wald in Nagrand wurde so verändert, dass man nicht mehr durch die Bäume reiten kann und so den Kämpfen mit den Erdelementaren umgeht.
+- Das Event im Schergrat nach dem zweiten Legionskommandanten wurde so platziert, dass es auch immer auslöst.
+- Der zweite Gegner im Schwarzen Tempel(Manticor) kann nun nicht mehr umritten werden.
+
+Probleme:
+- Obwohl Lord Illidan getötet wurde, beendet das Spiel nicht. Wir suchen noch nach der Ursache.
+
+
+Version 2.0.a 01.04.10/11:56
+"Aufbruch in die Scherbenwelt"
+- Lord Illidan ist nun mehr ein Held und ist auch um einiges stärker. Der Questablauf ändert sich nicht. Um gegen Lord Illidan kämpfen zu wollen, muss die Instanz "Festung der Stürme" besucht wurden sein, weil man den violetten Schlüssel benötigt. Auch mit Hilfe von Engelsflügen kann man den Lord sonst nicht erreichen. Das Ziel des Spiel ist es nun Lord Illidan zu besiegen und anschließend seine nebenstehende Festung zu besetzen.
+
+Version 2.1 01.04.10/17:13
+"Aufbruch in die Scherbenwelt"
+- In der Höllenfeuerzitadelle gibt es nun einen schnelleren Ausgang, man benötigt dafür den roten Schlüssel, welcher hinter 
+Maghteridon erbeutet werden kann.
+- Im Echsenkessel gibt es  nun einen schnelleren Ausgang, man benötigt dafür den blauen Schlüssel, welcher hinter 
+Lady Vashj erbeutet werden kann.
+- Das Event vor Morogrimm Gezeitenwandler wurde so platziert, dass es auch auslöst.
+- Das Event vor Leotheras den Blinden kann man nicht mehr umreiten.
+- Das Event vor den Erdelementaren in Nagrand wurde so platziert, dass es auch auslöst.
+- Legionskommandant Zerrix ist jetzt stärker. Man kämpft gegen 30 Teufel, anstelle von 15.
+- Ogerkönig Großer Klopfer ist jetzt stärker. Man kämpft gegen 150 Ogerkönige, anstelle von 85.
+- Die Stärke der Legionskommandanten im Schergrat wurde um 50 erhöht.
+- In der Festung der Stürme sind die Bosse nun stärker. Bei Feuergott A'lar und dem Leerhäscher kämpft man nun gegen 200, statt 75, bei Hochastronom Solarian kämpft man nun gegen 400 Zeloten, anstelle von 125 und bei Kael'thas Sonnenwanderer kämpft man nun gegen 400 Erzmagier, statt 125.
+- Der zweite Gegner im Schwarzen Tempel(Manticor) kann nun nicht mehr umritten werden. Das Terrain wurde dort nun etwas verändert.
+- Im Schwarzen Tempel sind die Bosse nun stärker. Bei Supremus kämpft man nun gegen 250 Diamantgolems, anstelle von 120, bei Teronblutschatten wurde jeweils die Stärke um 50 von 30, 130 und 200 angehoben auf 80, 180 und 250, beim Rat der Illidari wurde die Stärke um jeweils 40 angehoben, bei Illidan kämpft man nun gegen 200 Erzteufel, anstelle von 150.
+- Der Rat der Illidari hinterlässt nun keine Engelsflügel mehr, um ein Fliegen zu Illidans Schloss auszuschließen.
+- Die Bosse hinterlassen nun direkt nach dem Kampf eine Summe Gold (Vorbosse 2500, Endbosse 5000) und einen festgelegten Gegenstand. Folgende Gegenstände können erbeutet werden: Rind der Vitalität(Großhexenmeister Netherkurse), Schild der Verdammten(Maghteridon), Helm des Chaos(Morogrimm Gezeitenwandler), Ogerknüppel der Verwüstung(Leotheras der Blinde), Titanengladius(Lady Vashj), Stiefel der Polarität(Feuergott A'lar), Schmuck der Interferenz(Leerhäscher), Kugel der Verwundbarkeit(Hochastromantin Solarian), Donnerhelm(Kael'thas Sonnenwanderer), Emblem der Erkennstnis(Supremus), Widerrufermantel(Teron Blutschatten), Wunderrüstung(Rat der Illidari). Mit dieser Maßnahme muss man für die Beute nach dem Boss weder kämpfen noch Gold bezahlen.
+
+Version 2.1a 01.04.10/18:21
+"Aufbruch in die Scherbenwelt"
+- Hochastromantin Solarian hinterlässt nun Blut des Lebens, anstelle von Kugel der Verwundbarkeit.
+- Supremus hinterlässt nun Kleeblatt des Glückes, anstelle von Emblem der Erkenntnis.
+"Östliche Königreiche"
+- Die Quest im Rotkammgebirge wurde so platziert, dass sie auch auslöst.
+- Die Abschlussquest für die Oger im Schlingendorntal löst nun auf jeden Fall aus. Das Terrain wurde dafür geringfügig verändert.
+- Die Abschlussquest im Sumpfland für die Echsen löst nun auf jeden Fall aus.
+- Die erste Hydra im Pechschwingenhort wurde an die Stärke der anderen Gegner angepasst. Man kämpft jetzt nur noch gegen 45, anstelle von 150.
+- Die Abschlussquest für die Greifen im Alteracgebirge wurde so platziert, dass man an ihr nicht mehr vorbeireiten kann.
+- Kil'Jaeden hinterlässt nun keine Engelsflügel mehr, da sie den Spielfluss erheblich vereinfachen.
+- Die Endbosse in den Dungeons hinterlassen nun keine Gegenstände mehr. Man findet nun nur noch einen Obelisken. Einige Bosse KÖNNEN zusätzlich noch Gold oder Ressourcen hinterlassen.
+- Das Meer um die Insel Theramore im Sumpfland wurde mit Steinen umsetzt, dass man nicht mehr sinnlos aus der Welt segeln kann.
+
+Version 2.1b 09.04.10/20:11
+"Aufbruch in die Scherbenwelt"
+- Das Gebiet um Kael'thas Sonnenwanderer und Maghteridon wurde leicht verändert, damit man das Ereignis passiert.
+- Das Ausgangsportal in der Festung der Stürme führt nun direkt in den Südosten der Wälder von Terrokar, um die Rückreise zu verkürzen.
+- Aufgrund eines Fehlers während der Testphase wurde Lord Bolvar wieder angepasst. Man startet nun nicht mehr mit 999 Erzengeln und dem Item "Engelsflügel".
+- Man kann am letzten Manticor im Häschersturz auf der Höllenfeuerhalbinsel nicht mehr vorbeireiten.
+- Damit das Event nach Magtherion auch auslöst, wurde das Terrai geringfügig verändert.
+- Der Spähposten in den Wäldern von Terrokar wurd leicht nach Osten verrückt, damit man das Schlüsselzelt mit aufdeckt. An der ursprünglichen Stelle befindet sich nun ein Stall.
+- Der zweite Manticor im Schwarzen Tempel kann nicht mehr umritten werden. Das Terrain wurde geringfügig verändert.
+- K'iru im Schwarzen Tempel kann nun besser Deutsch und sagt auch 'Euch', statt 'Euc'!
+
+Hinweis: Eine Neugestalltung des Nethersturms ist in Bearbeitung. Allerdings soll so kurz vor Ende, kein volles Questgebiet mehr implementiert werden.
