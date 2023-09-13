@@ -1,0 +1,1 @@
+Die Dateien "hpl019rn", "hps019rn", "hpl074nc", "hps074nc", "hpl055hr", "hps055hr", "hpl093wl" sowie "hps093wl" in den "Data" Ordner einfügen.

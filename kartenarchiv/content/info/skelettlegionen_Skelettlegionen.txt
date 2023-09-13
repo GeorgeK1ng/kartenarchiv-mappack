@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Skelettlegionen (D_Skelettlegionen.h3m)
+Autor:	Darksir Ditje
+eMail:	dieter@byteware.de
+

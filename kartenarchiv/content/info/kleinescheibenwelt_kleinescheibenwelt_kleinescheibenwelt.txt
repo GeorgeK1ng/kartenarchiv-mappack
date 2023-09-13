@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Kleine Scheibenwelt (G_KleineScheibenwelt.h3m)
+Autor:	Gunnar
+eMail:	gunnar@kartenarchiv.de
+

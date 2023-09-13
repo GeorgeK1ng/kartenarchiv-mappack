@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Rohstoffmonopol (D_RohstoffMonopol.h3m)
+Autor:	Darksir Ditje
+eMail:	dieter@byteware.de
+

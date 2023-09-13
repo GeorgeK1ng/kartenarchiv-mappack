@@ -1,0 +1,9 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Kampf um den Drachenwald v1.1
+Datei:  Kampf um den Drachenwald.h3m
+Autor:	Gunnar
+eMail:	gunnar@kartenarchiv.de
+

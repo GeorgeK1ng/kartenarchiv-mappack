@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Harte Passage (D_HartePassage.h3m)
+Autor:	Darksir Ditje
+eMail:	dieter@byteware.de
+

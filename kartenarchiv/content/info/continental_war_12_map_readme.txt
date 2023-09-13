@@ -1,0 +1,1 @@
+This map is taken from the catalogue www.heroesportal.net

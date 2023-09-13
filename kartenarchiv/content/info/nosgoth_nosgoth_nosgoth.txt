@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Nosgoth (G_Nosgoth.h3m)
+Autor:	Gunnar
+eMail:	gunnar@kartenarchiv.de
+

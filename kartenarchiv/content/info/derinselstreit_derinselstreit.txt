@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Der Inselstreit (G_DerInselstreit.h3m)
+Autor:	Gunnar
+eMail:	gunnar@kartenarchiv.de
+

@@ -1,0 +1,10 @@
+Mapname:	Zaubersumpf
+Maker:		WW13
+Game:		H3.SoD
+Typ:		Deatmatch
+Map:		S.36*36
+Info:		Meine 1 Map zum Laden.
+     		Ist eine normale 1 on 1 Map.
+     		Habe mir beim (mapping) und dem gleichgewicht der Gebiete Mühe gegeben.
+     		HF.and think this is my One Map and follow...more.
+Thanks:		Den macher von H3 und GoTT.

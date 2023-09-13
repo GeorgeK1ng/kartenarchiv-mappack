@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Kreaturenkreise (G_Kreaturenkreise.h3m)
+Autor:	Gunnar
+eMail:	gunnar@kartenarchiv.de
+

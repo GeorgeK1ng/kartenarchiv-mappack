@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Der Wettstreit (C_DerWettstreit.h3m)
+Autor:	Claas
+eMail:	claas@bayu.info
+

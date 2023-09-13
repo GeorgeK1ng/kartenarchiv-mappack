@@ -1,0 +1,1 @@
+Es wird empfohlen die Karte auf einer schwierigen Stufe zu spielen.

@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Skelettküste (D_Skelettkueste.h3m)
+Autor:	Darksir Ditje
+eMail:	dieter@byteware.de
+

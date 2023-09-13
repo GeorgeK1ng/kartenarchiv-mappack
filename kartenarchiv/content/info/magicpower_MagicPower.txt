@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	MagicPower (G_MagicPower.h3m)
+Autor:	Gunnar
+eMail:	gunnar@kartenarchiv.de
+

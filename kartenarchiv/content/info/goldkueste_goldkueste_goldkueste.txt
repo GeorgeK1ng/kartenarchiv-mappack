@@ -1,0 +1,8 @@
+
+ KARTENARCHIV
+==============================
+
+Karte:	Goldküste (G_Goldkueste.h3m)
+Autor:	Gunnar
+eMail:	gunnar@kartenarchiv.de
+
