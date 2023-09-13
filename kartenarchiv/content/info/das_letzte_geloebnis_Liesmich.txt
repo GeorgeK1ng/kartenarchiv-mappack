@@ -1,0 +1,142 @@
+=============================================================================================================
+==================================== D a s   L e t z t e   G e l ö b n i s ==================================
+=============================================================================================================
+
+
+
+	I. 	Kurzinfo
+
+	II. 	Über diese Map
+
+	III. 	FAQ
+
+
+
+	I. KURZINFO
+	-----------
+
+
+	Autor: 			stefancoe
+	e-mail: 		stefancoe@hotmail.com
+	Homm3 Version: 		Shadow Of Death
+	Art der Map: 		Multiplayer 
+	Max. Spieler Anzahl:	6
+	Grösse:			XL
+	Untergrund: 		ja
+	Siegbedingungen:	Standard (Alle Feinde vernichten)
+	Gral:			Nicht vorhanden
+	Sprache:		Deutsch
+
+
+
+	II. ÜBER DIESE MAP
+	------------------
+
+	
+	Story
+	*****
+
+	Es gibt eine kurze Einführung, auf die jedoch nicht näher eingegangen wird und die auch für den weiteren
+	Spielverlauf bedeutungslos ist. Eine Story ist daher nicht vorhanden.
+
+
+
+	Geografie & Aufbau
+	******************
+
+	Die Map besteht überwiegend aus Landmasse. Der Untergrund ist geografisch genauso ausgelegt wie die Oberfläche, 		jedoch spiegelverkehrt. Ebenfalls befinden sich dieselben Gebäude & Kreaturen, die an einem bestimmten Punkt an der 		Oberfläche sind, auch an ungefähr demselben (spiegelverkehrten) Punkt im Untergrund. Kennt man also die Oberfläche,
+	weiss man wie der Untergrund im Groben aussehen wird.
+
+	Die meisten Kreaturen, Artefakte und Ressourcen sind Random. Das Gleiche gilt für die Kreaturenbehausungen im 
+	Umfeld einer Stadt und zahlreiche Ressourcen-Minen auf der Map.
+
+	Jeder Spieler beginnt auf einer mittelgrossen Inseln, fernab von seinen Gegnern. Ein schnelles Aufeinanderstossen 
+	mit einem Feind ist daher unwahrscheinlich. Um jeden Spieler zu Beginn die gleichen Möglichkeiten einzuräumen, ist 		die Ausgangslage bei jeder Spieler-Startposition die Gleiche, sprich: es befinden sich die gleichen Gebäude, 			Kreaturen und Ressourcen im nähren Umfeld. Dwellings, Kreaturen und Ressourcen sind jedoch Random und können vom
+	Typ her voneinander abweichen.
+
+
+
+	Helden & Fähigkeiten	
+	********************
+
+	- Die Grundeinstellung vieler Helden wurde in den Map-Spezifikationen verändert. Viele haben zu Beginn
+	  andere Primär- und Sekundärfähigkeiten als üblich. 
+
+	- Alle Magie-Helden verfügen zu Beginn über Wisdom-Basic und eine weitere Fähigkeit, alle Macht-Helden beginnen 
+	  nur mit einer einzigen Sekundärfähigkeit. 
+
+	- Die Fähigkeit "Wisdom" ist im weiteren Spielverlauf nicht durch Levelaufstiege (Experience) erlernbar. 
+	  Macht-Helden können sie jedoch bei bestimmten Gelehrten (Scholars) auf der Map erwerben.
+
+	- Bestimmte Helden wurden aus dem Spiel gestrichen. Dazu zählen insbesondere Helden, die als Spezialfähigkeit
+	  "Logistic", "Offense", "Armor" und "First Aid" besitzen. Die Helden-Namen und Portraits tauchen zwar teilweise 	  	  trotzdem im Spiel auf, dann jedoch in anderer Kombination (als bitte nicht täuschen lassen)!
+
+ 	- Alle Helden - egal ob Macht oder Magie - verfügen zu Beginn über ein Zauberbuch zu Beginn, jedoch ohne 	  	  	  Zauberspruch. 
+
+	- Die Fähigkeiten "Ballistics", "Scouting" & "First Aid" wurden aufgrund ihrer geringen Bedeutung auf dieser
+	  Map aus dem Spiel gestrichten. Dasselbe gilt auch für die Fähigkeit "Artillery", jedoch verfügen alle Helden die
+	  "Artillery" als Spezialfähigkeit besitzen zu Beginn darüber.
+
+
+	Zaubersprüche & Artefakte	
+	*************************
+
+	- Einige Zaubersprüche sind aufgrund ihres geringen Nutzens (z.B. Protection from Water) nicht verfügbar, andere
+          mächtige Zaubersprüche (wie z.B. Dimension Door, Fly, etc.) sind nicht verfügbar, da sie die map-spezifischen
+          Strategiebedingungen (Quest Guards) umgehen können.
+
+	- Einige Artefakte sind aufgrund ihres geringen Nutzens (z.B. Stoic Watchman) nicht verfügbar, andere
+          mächtige Artefakte (wie z.B. Angel Wings, etc.) sind nicht verfügbar, da sie die map-spezifischen
+          Strategiebedingungen (Quest Guards) umgehen können.
+
+
+
+	Singleplayer & KI	
+	*****************
+
+	Obwohl es sich bei dieser Map vorrangig um eine Mulitplayerkarte handelt, so ist sie dennoch auch für Singleplayer
+        Spiele ausgelegt. Um den Spieler vor einer echten Herausforderung zu stellen, erhalten die KI-Gegner Vorteile, 
+	hauptsächlich in Form von zusätzlichen Ressourcen (womit sie schon zu Spielbeginn diverse Quests relativ schnell 		erfüllen können) und zusätzliche Truppen. 
+
+	Da der menschliche Spieler zu Beginn über vergleichsweise wenig Ressourcen verfügt, wird die KI grundsätzlich einen 		besseren (sprich: schnelleren) Start hinlegen und die Map bereits erkunden (Artefakte, Erfahrung und Ressourcen 		sammeln) während der menschliche Spieler noch im näheren Umfeld seiner Hauptstadt tätig ist. Dieses Anfangsdefizit
+	auszugleichen gehört zu einer der Herausforderungen im Spiel.
+
+
+
+	III. FAQ
+	-------
+
+
+	# Warum sind die ganzen Städte, Monster, Ressourcen und Artefakte auf der Map Random?
+
+	Es wird viel Wert auf eine hohe Wiederbespielbarkeit der Map gelegt. Daher werden möglichst viele Dinge dem Zufall
+	überlassen. Der Reiz liegt darin, bei jedem Spiel andere Vorraussetzungen vorzufinden. Hat man bei einem Spiel 			beispielsweise Glück und es befinden sich an einer strategisch wichtigen Stelle schwache Kreaturen, so kann ein 		anderes Spiel mit weitaus stärkeren Kreaturen an der gleichen Stelle das Spiel in eine ganz andere Richtung 			lenken. Möglicherweise werden nun ganz andere Strategien erfordert. Somit kann dieser Umstand Einfluss auf den 			gesamten Spielverlauf nehmen.
+
+
+	# Warum kann man bei den Spielerfarben zu Beginn nur bestimmte Stadttypen zum Spielen auswählen?
+
+	Dafür gibt es zwei Gründe: zum einen soll der entsprechende Stadttyp zur entsprechenden Umgebungsambiente an der 
+	jeweiligen Startposition passen (Ein Tower inmitten von dichten Lavaströmen passt nun mal irgendwie nicht...), zum
+	anderen wird damit die Möglichkeit eingeschränkt, besiegte feindliche Helden in den Tavernen wieder anzuheuern. 
+	Diese haben oftmals einen gewaltigen Erfahrungslevel, sind daher überaus mächtig und für lächerliche 2500 Gold zu
+	erwerben. Beispiel: der Necropolis-Stadttyp lässt sich nur von Spieler 1 (rot) und Spieler 6 (violett) spielen.
+	Besiegte Necropolis-Helden können sich somit auch nur von diesen Spielern wieder neu anwerben lassen. Spieler 5 		(orange, Fortress oder Dungeon) hingegen wird nie die Möglichkeit besitzen, sich diesen Necropolis-Helden zu Eigen 
+	zu machen.
+
+	# Wo erhalte ich wichtige Zaubersprüche?
+
+	- Den Zauberspruch "Haste" erhält man nur bei der Erfüllung eines Quests in der Nähe der Hauptstadt. Ansonsten ist
+	  der Spruch im Spiel nicht verfügbar. Achtung: für die Erfüllung der Aufgabe ist ein Zeitlimit von drei Monaten
+	  vorgegeben.
+
+	- Den Zauberspruch "Slow" erhält man in der Magiergilde der Stadt, die sich auf der kleinen Insel in der Nähe der
+	  Heimatinsel des Spielers befindet. 
+
+	- Den Zauberspruch "Town Portal" erhält man in Form einer Zauberspruchrolle, zu der man Zugang hat wenn man einen
+	  entsprechenden Quest erfüllt. 
+
+
+
+	Gruss,
+	Stefancoe
+	(23-10-2010)

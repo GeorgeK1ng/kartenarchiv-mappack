@@ -1,0 +1,27 @@
+Kartenname: Sandros Krieg
+  (Teil 5 von "Der Aufstieg und Fall von Sandro")
+Datum: 22. Mai 2008
+Autor und Mapmaker: ByteBandit (lightmage55@yahoo.com)
+Deutsche Übersetzung: Koni (lewikon@t-online.de)
+Datei-Name: Sandros Krieg.h4c (engl. Version Sandros War.h4c)
+Zusätzlich gesteigerte Herausfordung im Gameplay durch Muszka (dev7l@yahoo.com)
+Ergänzende Storyelemente durch Koni (Lewikon@t-online.de)  
+Größe: Extra Large mit Untergrund
+Version: Heroes of Might & Magic IV (Winds of War)
+Sieg-Bedingung: Alle besiegen insbesondere Sandros Armee
+Niederlagen-Bedingung: Nicolai oder Royal City verlieren
+Kartentester: Muszka, Koni, ByteBandit
+
+
+Beschreibung:
+
+     Sandro war erfolgreich damit, die Geschichte von AvLee zu verändern. Ganz Enroth und Erathia stehen nun unter seiner Kontrolle. Er besitzt auch die Oberhand über alle Festungen und Burgen, die in der gesamten Unterwelt zu finden sind. Wahrlich ein großer Besitz! Er hat nicht nur die Geschichte verändert, auch viele gegnerische Parteien von einst haben ihre Kräfte vereinigt. Inferno Kreaturen sind nun auch in der Nekropole oder im Dungeon zu bekommen. Und viele Kreaturen vergangener Reiche waren nun auch innerhalb der Zwingfeste beheimatet. Sandro hat das erreicht, wovon viele in seiner Welt geglaubt hatten, dass es unmöglich herbeizuführen war. Das ultimate Böse! Jedoch gibt es noch EINE Welt, die es in AvLee zu erobern gilt. Eine Welt, in der sich nur wenig durch Sandros Erfolg geändert hat: Axeoth.
+     Zwar hatte auch Axeoth das Wüten von Sandros Veränderung der Zeit verspürt. Die Oberwelt hatte es jedoch geschafft, sich seinem Zugriff größtenteils zu entziehen. Aber der Wechsel von all dem, was einst war, zu dem, wie es jetzt war, auch unter dem Begriff "Abrechnung" bekannt, hatte das Leben jedes einzelnen Lebewesens in Axeoth beeinflusst. Wenn auch die Zufluchthäfen [vormals Schloss oder Castle] viel von ihrer vorherigen Macht behaupten konnten, so hatte sich doch die Lage in ihrer Umgebung zum Schlechteren gewendet. Keine der Fraktionen traute der anderen so wie zuvor. Und viele kämpfen nun um ihr eigenes Überleben. Vorüber sind die Tage der Diplomatie und Vernunft. Sie sind nun abgelöst von Misstrauen und Rebellion.
+     Nicolai, der die Veränderungen durch die 'Abrechnung' während seiner Ausbildung in Royal City als Zeuge miterlebt hat, sieht nun, dass neue Wege in der Kriegskunst vonnöten sind. Der Held konnte sich nun nicht mehr länger nur darauf verlassen, die eigenen Truppen im Kampf agieren zu sehen. Jetzt musste er ebenfalls für die Schlacht gerüstet sein. Nicolai würde schnell zu diesem neuen Kampfstil übergehen und sollte größere Fortschritte als jeder andere in der Ausbildung machen. Dadurch stieg er zum Kommandierenden General in der Königlichen Armee von Axeoth auf. Seine Kommandozentrale lag im Südteil von Axeoth nahe der Länder an den Nighon Fjords im Zufluchtshafen Royal City, wo er auch in der Kriegsakademie seine neuen Fertigkeiten erlernt hatte. Dort ereilte ihn nun auch der Befehl, die Stadt für jede mögliche Bedrohung gewappnet zu halten, die durch den Dunklen Nekromanten Sandro heraufbeschworen werden und zu jeder Zeit eintreten konnte.
+     Berichte aus den angrenzenden Gebieten erzählen von unerklärbaren Todesfällen und verwüsteten Dörfern, die alle auf die Aktivität von Untoten hindeuten. Ganz sicher ist Sandro auf dem Vormarsch. Alle Lebewesen in Axeoth haben dann und wann schon mal Begegnungen mit Untoten gehabt, Nicolai selbst eingeschlossen.Träume vom Tod seiner Mutter suchen ihn noch bis auf den heutigen Tag heim. Seit sie an den Folgen einer unerklärlichen Seuche kurz vor der 'Abrechnung' gestorben war, ist sich Nicolai sicher, dass es das Werk von Sandro sein musste. Er "fühlte" es einfach. Um so mehr hatte er sein Training zu intensivieren. Um so wichtiger war es, Axeoth ein für allemal von diesem Schrecken zu befreien.
+     Sandro rüstete seine Armee in der Unterwelt von Erathia auf und führte sie dann nach Axeoth. Die raue, heiße Lava-Unterwelt war ganz nach seinem Geschmack. Und sie würde auf jeden Abenteurer von der Oberwelt als abschreckendes Hindernis wirken, seinen Schlupfwinkel, seine Nekropole Sandros Keep, in der Unterwelt zu finden.
+     "Die Zeit ist reif, meine Legionen, die Lebenden ein für allemal hinwegzufegen!", rief Sandro seinen überall aus seinem Reich angesammelten Armeen zu. "Die Veränderungen in der Vergangenheit verheißen Gutes für unsere Zukunft. Die Lebenden haben keine Chance gegen uns. Erhebt euch! Steht auf, meine Diener! Steht auf und bemächtigt euch allen Lebens auf den oberen Welten! Lasst keinen am Leben und macht sie zu Untoten. Ich befehle es! Tut es JETZT!"
+     Und damit setzte sich das gesamte Reich des Bösen, von Sandro geschaffen, in Richtung der letzten bekannten Zuflucht lebender Wesen in Marsch - der Oberwelt von Axeoth.
+     Sandro hatte sich gut auf den entscheidenden Krieg vorbereitet. Nur eines steht ihm noch für einen sicheren Sieg ihm Weg.....
+
+Die Geschichte schließt ab mit Heroes of Might and Magic IV (Equilibris).

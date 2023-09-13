@@ -1,0 +1,83 @@
+{TURN ON WORD WRAP}
+
+Map Name:	Kid Heretic (Heretic.h3m)
+Map Maker:	Charles Watkins
+E-Mail Address:	charleswatkins@austin.rr.com
+Map Type:	Single player, RPG style
+Language:	English
+Version:	1.1 (Nov 2000: bug fixes)
+
+Description:	You seek the Holy Grail !  Your quest of honor takes you to Foss, City of a Thousand Gates and Domain of Uxnator, the Grand Overlord. Your success depends on how you deal with those you encounter. Will they join you in your glorious crusade? Or will they brand you ... H e r e t i c ? 
+
+Special Win:	Return with Grail
+Special Loss:	See Special Other
+Special Other:	Timed: One Year
+
+Play-Testers:	Tim Pulver at ik0330@kingston.net
+              	Toni at tonip@ptt.yu
+              	Gandolf at 512-292-3755
+
+----------------
+Additional Data
+----------------
+Character list: "HereticList.txt"
+Release Date:	August 31, 2000
+Game Edition:	Heroes3+AB+SOD
+Map Size:	Medium
+Underworld:	Yes
+Starting Town:  Brimstone (Inferno)
+Starting Hero:  Kid Crowley (Heretic)
+Starting Bonus: any
+Player's Color: Red
+Allies:		Red+Pink vs Blue+Tan+Purple vs Green vs Orange vs Teal
+Difficulty:	Hard (long)
+
+--------------
+PLAYER'S NOTES
+--------------
+[1] The map has a fixed cast of characters. There is list included in the ZIP as "HereticList.txt" of all the main heroes. Some fellow Heretics can be found at Taverns, and you may find more useful heroes in the Prisons. You have a token ally in Pink, but the other colors are arrayed against you. However, some may prove to be not hostile -- or even helpful if you know how to approach them. You will also encounter NPCs in Events and Quests, and sometimes the NPC will be a "monster" who will try to join your group.
+
+[2] Because the map is one big Town, the "Towns" inside are more limited than with most Heroes3 maps. Rather than building UP a main Town, players should look to build OUT by extending their control to more territory, capturing additional generators and resources. Likewise, rather than building up a single hero to do all the fighting, players may want to develop several heroes for different tasks. Otherwise the year's end may come too soon.
+
+[3] Magic has been toned down but still figures heavily in the game. No Fly, Dim Door, or Town Portal in this version, though I'll see about allowing them later -- after the requisite testing is done. There are quite a few Artifacts -- in fact, you can acquire all of the new SOD multiparters. 
+
+[4] I'm pleased to announce that no crashes were encountered in the development or testing of the map. There may be bugs in the Heroes3 program or flaws in the layout of the map that need to be addressed, so please report any problems you may have. But when the obvious path to an objective seems closed, look at other ways to get there before concluding that the mapmaker has goofed again. As always, the best stuff is not in plain sight. And you can't trust that Right Click to reveal everything, can you? Foss is full of nooks and crannies -- and I hope there will be some surprises and novelties, even for experienced players. 
+
+[5] Due to the limitation on the cast of heroes, the game will complain about the map and ask you to fix it with the editor. However, it is completely playable despite the message, owing to restrictions on some of the colors. 
+
+[6] Because there are so many, here's are some pointers on Quest Towers: (A) There are three messages there. After you get the first one, you can go right to the second (if the condition has not been met) or right to the third (if it has). You also have the option of bailing out before making the exchange, but after you have read the third message. This means that sometimes you can get useful information just by returning with the quest thingie -- you don't necessarily have to turn it over. If you do, you get your goodie but the Tower will vanish -- so be sure you're ready to open the way! (B) Remember that you can view the active Quests from the command menu. (C) In prior versions of Heroes3 a bug kept you from getting credit for a QT kill if you saved/restored between the kill and your return to the QT. It did not reoccur in testing, but you never know.
+
+[7] The Heretics here are named after real heretics--some religious and some scientific--most actually burned at the stake. Someday I hope to expand the bios and add some Tavern rumors to tell you more about them and to fill in more of the backstory for Kid Heretic. But if the heretical tone of the narrative manages to deeply offend some true believer, kindly accept my apology but please consider: were not the founders of your faith also regarded as heretics in their day?
+  
+[8] I'm always open for hints and clues. I expect to publish a SPOILERS list on the Quill sometime soon. For now, in case you're having a hard time getting into the City, I'm including instructions:
+
+W
+A
+Y
+
+D
+O
+W
+N
+ 
+B
+E
+L
+O
+W
+
+.
+.
+.
+
+************ SPOILERS HERE **************
+
+Here's a way into the City, day by day:
+(1) To beat the Magma Elements, cast Summon Fire Elemental. Don't let them kill the Dog. Then recruit the Fire Elementals at the Conflux and use them to beat the Ice Elementals. Use the Spell again on the Storm Elementals and you're to Town. Nothing to do there.
+(2) Talk to Doc Seer and find out about your quest. Continue East to see the Mayor. Keep going East thru the Lith. Fight the Boars and have the Mage and Gnoll Marauder join.
+(3) Head East -- past the main gate -- till you come to Purgatory. You'll want to visit the Well on the way. Ignore the Rocs.
+(4) Visit the Seer and the Black Tent, fight the Minotaurs and recruit the Gnoll Marauders. At the Seer, you can pick up even more.
+(5/6) Now head back to the Main gate. Pass on thru until you clear the Magic Garrison. Then go West inside the City Wall, skirting the guards. There is a very small possibility that a Deputy will be in the area -- see if the guard houses are Teal -- and if so, hole up in the Sanctuary till the next turn. 
+(7) Follow the City Wall west to the place the first Seer told you about: "Psst". The Barricade in front of the Seer by the Tavern may look White, but it's really Black and you can pass thru. The Gnoll Marauders there will join your party and you can recruit another hero at the Tavern. There you are -- only took a week!  
+
+ 

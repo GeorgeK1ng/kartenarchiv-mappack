@@ -1,0 +1,206 @@
+Helden:
+
+-Jeder Spieler hat fraktionstypische Helden,   
+ es können keine Helden anderer Fraktionen angeworben werden.
+-Jeder Spieler hat einen Haupthelden auf Level 12  mit Skill-Special und selbst ausgesuchten   Fähigkeiten.
+ Diese Helden  sind außerdem auf die Skills, Wisdom und  Scholar, sowie eine Magierichtung    festgelegt. 
+ mit allen ´´Anfangszauber´´ der jeweiligen    Magierichtung.
+-Alle anderen Helden die zur Rekrutierung bereitstehen, starten auf Level 8 mit zufälligen  Fähigkeiten, Attributen und mit  eingeschränkten Zaubern.
+
+Burgen:
+
+-Jeder Spieler besitzt von Anfang an 5 Burgen, 
+ die allesamt ausgebaute Kreaturengebäude besitzen. 
+-Die 3 grenznahen Burgen haben keine besonderen Gebäude errichtet. 
+ Die Burg an der Oberfläche, im  Landesinneren, besitzt eine Magiergilde. 
+ Auch die unterirdische Hauptburg besitzt eine  Magiergilde (die einzigen 2 Möglichkeiten um das   Mana eines Helden komplett aufzufrischen) außerdem  besitzt sie einen Marktplatz und manche Fraktionen  besitzen Heldenverbessernde Gebäude.
+-Wird eine feindliche Burg erobert so bekommt man wöchentlich Gold. 
+ Aus grenznahen        : 	1000 Gold
+ Aus dem Landesinneren : 	2000 Gold
+ Aus der Hauptburg     :	4000 Gold
+
+Ressourcen:
+
+-Jeder Spieler besitzt von Anfang an 4 Erzeuger der Hauptressource die man für die Level 7 Kreatur    benötigt und 2 Erzeugen Holz oder Erz (die 2 angrenzenden Nachbarn haben dann das jeweilige     Gegenstück dazu)
+-Ressourcen werden benötigt um neue Zauber zu  erlernen und um fremde Level 7 Kreaturen zu   rekrutieren.
+
+Magie:
+
+-Jeder Spieler hat eine zugewiesene Magierichtung mit ausgewählten Anfangszaubern.
+-Jeder Held hat seine zugewiesene Magierichtung als Standart-Basic-Skillung, mit eingeschränkten     Zaubern.
+-Wer genügend Ressourcen gesammelt hat, kann bis zu 4 neue Zauber erlernen.
+-Nur Helden mit Scholar, können Zauber weitergeben
+
+Attentätergilde:
+
+-Jeder Spieler hat seinen eigenen abgetrennten Bereich im Untergrund, den nur er betreten kann.      In diesem befinden sich Macht und Magie-Artefakte die freigespielt werden können. 
+ Dazu muss man die geforderten stationären Wachen der Gegner beseitigen.
+-Je weiter weg ein Attentat stattfindet, desto höher ist die Belohnung. 
+ (Am Beispiel Castle: Die Elfenländereien liegen gegenüber um bringen deshalb auch die besten      Artefakte. 
+ Am Beispiel Tower: Dungeon liegt gegenüber: bringt also am meisten.)
+
+
+Ruhmeshalle:
+
+Es gibt für jeden Spieler einen weiteren abgetrennten Bereich im Untergrund.
+Bei jedem Spieler können stationäre Level 6 Kreaturen angegriffen werden, hat man sie besiegt, bekommt man Kreaturen.
+Besiegt man feindliche Level 7 Kreaturen, bekommt man für jede eine Auszeichnung 
+(Beispiel Tower: Stonic Watchman). Diese unnützen Gegenstände erfüllen bei jedem Spieler den gleichen Zweck.,sie können gegen Belohnungen eingetauscht werden. 
+(Attribute Artefakte, fraktionsabhängig.)
+
+
+Erzfeinde:
+
+-Es gibt für jeden Spieler einen Erzfeind, welcher das ist wird am Anfang des Spiels erklärt, kann    aber auch im Editor herausgefunden werden. 
+ Gegen den Uhrzeigersinn, wird jeweils ein Reich übersprungen. (Beispiel Castle: hat den Erzeind     Inferno. Beispiel: Stronghold: hat den Erzfeind Dungeon.)
+-Erobert man die Burg eines Erzfeindes, so verdoppelt sich das wöchentliche Gold.
+
+Die Mitte: 
+
+Im UG-Zentrum liegt die Wüste, dort befinden sich einige Drachen und andere Level  7 Kreaturen. Werden sie erledigt bekommt der Spieler einen Bonus.
+In der Mitte befindet sich eine Inferno Burg mit Castle Gate um in Verbindung mit dem eigenen Königreich oder eroberten in Kontakt treten zu können.
+
+Farie Dragons(1 von 4): Schaltet einen Markt frei, an dem gehandelt werden kann.
+Azur Dragons: Level 7 Einheiten als Belohnung
+Rust Dragons: Bonus-Attribite
+
+Schwarze Drachen, Teufel Geisterdrachen, Engel, schalten jeweils 1 Goldmine frei.
+
+Aber nicht alle Teleporter führen zu diesen Einheiten, hat man Pech, stellen sich einem Titanen in den Weg.
+An der Oberfläche befinden sich 2 Questzelte an denen jeweils 50 Phönixe abgeholt werden können, wenn man die entsprechenden Kreaturen liefert.
+
+Auszeichnngen:
+
+Erreicht ein Held Level 30, kann er zwischen 2 Klassen wählen: 
+Magier +5 Spellpower (Implosion und Elemente) 
+Krieger ( +1 Speed und +5 Attack)
+Außerdem bekommt man einen 2. Level 30 Held.
+Bei Level 35 gibt es noch ein zusätzliches Artefakt.
+
+Weltenherrscher: 
+Erreicht mit einem Helden Level 40 und ihr bekommt die Statue of Legion und Bonus-Artefakte.
+
+Eine neue Macht entsteht:
+Erreicht Level 45, jetzt ist es nur noch eine Frage der Zeit…..
+Ihr bekommt ein Town Portal-Scroll und einen weiteren Helden der in der Wüste gegen einen Ring getauscht werden kann.
+Jetzt können auch Level 10 Kreaturen angeheuert werden. Farie, Rust, Azur oder Crystal Dragons. 
+
+Fraktionen:
+
+Castle:
+
+Hauptheld: König Roland (Warrior, Archery) 
+Erzfeind: Inferno
+Magie: Wasser (Bless, Cure, Dispel, Forgetfulness, Frost ring, Ice Bolt, Magic Arrow, Mirth, Protection from Water, Weakness)  
+Zu erlernende Zauber: Teleport, Prayer, Clone
+
+Ruhmeshalle-Gegenstände: Archery +5 Archery +10 Archery +15= Bow of the Sharpshooter
+Weltenherrscher: Helm of Heavenly Enlightenment, Pendant of Courage
+
+Tower:
+
+Hauptheld: Erzmagier (Warrior, Armorer +3 Spell Power und Knowledge)
+Erzfeind: Stronghold
+Magie: Luft (Air Shield, Destroy Undead, Disrupting Ray, Fortune, Hypnotise, Lightning Bolt, Magic Arrow, Precision, Protection from Air,)
+Zu erlenende Zauber: Counterstrike, Haste, Chain Lightning, Magic Mirror
+
+Ruhmeshalle-Gegenstände: +6 Spellpower, Golden Bow, +20 Spellpower
+Weltenherrscher: Wizards Well, Helm of Heavenly Enlightenment
+
+
+Necropolis:
+
+Hauptheld: Shaka (Mage, Necromancy) 
+Erzfeind: Castle
+Magie: Erde (Anti Magic, Death Ripple, Eathquake, Force Field, Magic Arrow, Protection from Earth, Quicksand, Shield, Sorrow, Stone Skin)
+Zu erlernende Zauber: Meteor Shower, Slow, Animate Dead, Ressurection 
+
+Ruhmeshalle-Gegenstände: +3 Spellpower, Attack +6, Spell Power +12
+Weltenherrscher: Vampires Cowl
+
+
+Fortress:
+
+Hauptheld: Hexe Andra ( Mage, Intelligence +3 Spell Power und Knowledge)
+Erzfeind: Tower
+Maie: Luft (Air Shield, Destroy Undead, Disrupting Ray, Fortune, Hypnotise, Lightning Bolt, Magic Arrow, Precision, Protection from Air,)
+Zu erlenende Zauber: Counterstrike, Haste, Chain Lightning, Magic Mirror
+
+Ruhmeshalle-Gegenstände: +6 Spellpower, +10 Spellpower, +20 Spellpower
+Weltenherrscher:  Wizards Well, Helm of Heavenly Enlightenment
+
+
+Rampart:
+
+Hauptheld: Anführer Grim (Warrior, Resistance +4 Spell Power +4 Defence)
+Erzfeind: Necropolis
+Magie: Feuer (Blind, Bloodlust, Curse, Fire Shield, Fire Wall, Fireball, Landmine, Magic Arrow, Misfortune, Protection from Fire)
+Zu erlernende Zauber: Slayer, Armageddon, Berserk
+
+Ruhmesshalle-Gegenstände: +5 Resistance +10 Resistance +15 Resistance
+Weltenherrscher: Wizards Well, Armageddons Blade
+
+
+Dungeon:
+
+Hauptheld: Hexenmeister (Mage, Sorcery +3 Defence)
+Erzfeind: Fortress
+Magie: Erde (Anti Magic, Death Ripple, Eathquake, Force Field, Magic Arrow, Protection from Earth, Quicksand, Shield, Sorrow, Stone Skin)
+Zu erlernende Zauber: Meteor Shower, Slow, 
+Ressurection
+
+Ruhmeshalle-Gegenstände: +5 Attack, +7 Spellpower +12 Spellpower
+Weltenherrscher: Vial of Dragon Blood, Helm of Heavenly Enlightenment
+
+
+Inferno:
+
+Hauptheld: Dämonenlord (Mage, Mysticism +6 Spell Power +6 Defence)
+Erzfeind: Rampart
+Magie: Feuer (Blind, Bloodlust, Curse, Fire Shield, Fire Wall, Fireball, Landmine, Magic Arrow, Misfortune, Protection from Fire)
+Zu erlernende Zauber: Slayer, Armageddon, Berserk
+
+Ruhmeshalle-Gegenstände: Health+1 Health+1 Health+2= Elixir of Life
+Weltenherrscher: Wizards Well, Armageddons Blade
+
+
+Stronghold:
+
+Hauptheld: Crag Hack (Warrior, Offense +3 Defence)
+Erzfeind: Dungeon
+Magie: Wasser (Bless, Cure, Dispel, Forgetfulness, Frost ring, Ice Bolt, Magic Arrow, Mirth, Protection from Water, Weakness)  
+Zu erlernende Zauber: Teleport, Prayer, Clone
+
+Ruhmeshalle-Gegenstände: +1 Speed, +5 Attack, +3 Speed.
+Weltenherrscher: Helm of Heavenly Enlightenment, Pendant of Courage
+
+
+Jede Fraktion bekommt noch Boots of Speed, zusätzlich zum 3. Ruhmeshalle-Gegenstand.
+
+
+Sonstige Hinweise:
+
+Es gibt für jeden Spieler 2 Garnisonen, die nahe der Burgen im Innland stehen. 
+Diese sind unbemannt und für die Lagerung von Truppen zuständig.
+Außerdem besizt jeder eine Inferno Burg im Untergrund. Diese dient dazu den Kontakt zum Königreich zu halten, wenn man Belohnungen abholen möchte oder zur Verteidgung. 
+
+Als Startbonus sollte Gold oder Artefakt (+1 Moral oder +1 Glück) gewählt werden, den alle Ressourcen werden am Start abgenommen. 
+
+Es gibt einen Held den jeder Spieler rekrutieren kann –Lord Haart. 
+Ein Fehler den ich nicht beheben konnte.
+
+Jeder Spieler hat einen Helden der am Anfang entlassen werden kann, dieser steht vor einem Tor das nur der PC öffnen kann, weil dieser über genügend Ressourcen verfügt.
+Der PC schaltet somit an einem bestimmten Punkt einen Wächter frei, um die KI stärker zu machen.
+
+Meine Strategie:
+
+Die ganze Armee wird dem Hauptheld gegeben. Wichtig ist dabei das man eher starke Kreaturen rekrutiert. Meistens kann man sich nicht alle Kreaturen leisten. 
+Ich versuche nicht die äußeren Burgen zu verteidigen und teile auch keine Armee auf, da mein Hauptheld die ganze Erfahrung bekommen soll.
+
+Belohnungen holt auch nur mein Hauptheld ab, da sie zusätzlich Erfahrung bringen.
+
+Am Anfang solltet ihr mit eurem 2. Helden die ganzen Aufgaben im Untergrund abklappern,
+damit ihr später einfach überprüfen könnt wann ihr eine Aufgabe erledigt habt.
+Der 2. Held kann dann auch die Tore öffnen damit der Hauptheld später, wenn er wieder im Königreich ist alles einsammeln kann.
+
+

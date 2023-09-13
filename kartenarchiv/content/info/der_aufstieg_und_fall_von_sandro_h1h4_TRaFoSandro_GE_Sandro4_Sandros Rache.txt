@@ -1,0 +1,39 @@
+Kartenname: Sandros Rache
+  (Teil 4 von "Der Aufstieg und Fall von Sandro")
+Datum: 15. Mai 2008
+Autor und Mapmaker: ByteBandit (lightmage55@yahoo.com)
+Deutsche Übersetzung: Koni (lewikon@t-online.de)
+Datei-Name: Sandros Rache.h3m (engl. Version Sandros Revenge.h3m)
+Zusätzliche Änderungen und Text: Muszka (dev7l@yahoo.com)
+Größe: Extra Large mit Untergrund
+Version: Heroes of Might & Magic III (In the Wake of Gods v3.58f)
+Sieg-Bedingung: Das Artefakt 'MdDV' nach Axeoth bringen
+Niederlagen-Bedingung: Roland den Hexer verlieren
+Zusätzlicher Hinweis: Auf keinen Fall Finneas oder Sandro verlieren. Andernfalls kann das Spiel nicht beendet werden. 
+Kartentester: Muszka, ByteBandit, Corlagon
+
+
+Beschreibung
+
+     "Roland?", rief Catherine und rüttelte an den Toren der 'Schmiede' [Forge Zown]. "Roland!?", bettelte sie dann und begann zu schluchzen. "Roland!!", schrie sie schließlich. "Lieber Gott! Was ist nur geschehen?" Sie sank zu Boden und begann, hemmungslos zu weinen.
+     "Er ist an einen anderen Ort übergegangen, mein Kind", sprach eine tiefe Stimme zu ihr aus dem Nichts.
+     "Wohin?", schniefte sie. "Wohin ist er gegangen?", bat sie nun inständig.
+     "Vor langer Zeit, noch bevor AvLee die heute bekannte Welt formte, war das Land wild und die Kreaturen todbringend. Und Götter wandelten auf der Erde und wetteiferten miteinander um die Kontrolle über die Welt, in dem Land, das Ihr Deyja nennt."
+     "Deyja?", fragte Catherine verblüfft. "Davon habe ich gehört, ja. Aber das ist schon lange her. Lange bevor die IronFists überhaupt existierten." Sie schwieg eine Weile, um das alles zu verarbeiten. "Aber wie kann das sein?"
+     "König Roland brachte die verfluchte 'Macht des Drachenvaters' in die Schmiede, zur Forge Town. Er wusste, dass ihm, wenn er das tat, eine sichere Passage zurück in Eure Welt garantiert würde. Doch stattdessen wurde er von Sandro selbst hereingelegt, der ihn an einen anderen Ort in der Zeit versetzte. In eine Zeit, als der 'Drachenvater' so vielen so vieles bedeutete."
+     "Dann lebt er also noch?", fragte sie die Stimme.
+     "Das ist schwer zu sagen. Es hängt alles davon ab, wer den größten Einfluss mit dem 'Drachenvater' hat oder davon, wen Du fragst. Viele aus der Unterwelt beanspruchen den Ruhm durch seine Macht. Viele glaubten, dass der mächtige Nekromant Finneas Vilmar Macht über alle besaß. Manche sagen, Xeron hätte die längste Zeit über den größten Nutzen an dem Objekt gehabt. Andere verehrten Alamar, da sie ebenfalls glaubten, er besäße das Artefakt. Doch einige Berichte deuten auf Sandro hin als den letzten, der damit gesehen wurde", gab die Stimme zurück.
+     "Warum sollte es davon abhängen, wer den größten Einfluss auf diesen 'Drachenvater' hat? Sie sind doch alle gleich. Sie alle sehen die Welt von AvLee als IHR Reich an."
+     "Und Du und Roland etwa nicht!? Ihr habt euren Besitz genauso sehr ausgedehnt, wie sie es taten. Wenn nicht noch mehr, indem Ihr die wertvollen Teile von AvLee an Euch gerissen habt! In einer Hinsicht sind wir Götter erfreut darüber, dass der Machtkampf zwischen Gut und Böse geendet hat, irgendwie für den Moment," röhrte die Stimme. "Aber um Deine Frage zu beantworten, warum es etwas ausmacht, wer die 'Macht des Drachenvaters' besitzt, nun, das ist etwas, was ich dir nicht offenbaren kann. Wir Götter halten es für unnötig, unsere Eigenart den menschlichen Wesen erklären zu müssen."
+     Catherine bedachte noch einmal, was ihr dieser Gott enthüllt hatte. Sie schien gleichermaßen verwirrt und besorgt. Nachdem sie die Dinge abgewogen hatte, fragte sie den Gott: "Gibt es etwas, was ich tun kann? Gibt es irgendeinen Weg, wie ich meinem Ehemann helfen kann?"
+     "Ja, es gibt einen, mein Kind. Du solltest zurückreisen in Deine Heimatwelt von Erathia und dort auf ihn warten. In der Zwischenzeit könntest Du darüber nachdenken, wie Du Dir die Fortentwicklung der Zukunft von AvLee vorstellst. Es darf hier keine weiteren Kriege geben. Wir Götter sind ihrer müde. So, wie es jetzt ist, haben wir uns unsere Welt nicht vorgestellt."
+     Catherine hielt für einen Augenblick inne. "Ich werde tun, wie Ihr verlangt, mein allmächtiger Gott. Ich habe ebenfalls das Blutvergießen, den Tod und das Sterben satt. Es wäre wundervoll, wenn wir das alles gemeinsam aufhalten könnten."
+     "Du bist klug, Catherine. Du bist schon immer klug gewesen. Und Du zeigst Anzeichen eines guten Herzens. Bewahre Dir dieses Vertrauen ebenso in Rolands Weg. Vielleicht wird es ihm eine baldige Rückkehr ermöglichen, zurück in diese Welt. Er wird all die Gebete nötig haben, die Du ihm geben kannst. Das Schicksal Eurer Welt hängt von dem Glauben an AvLee ab, durch Roland. Geh! Geh nun und lass alle von Rolands Reise nach Deyja wissen. Und mögen wir Götter ihm beistehen!"
+     "Ja, Gott. Ich werde tun, wie Ihr wünscht." Sie kniete neben dem zerstörten Tor zur 'Schmiede' nieder , wo sie zum letztenmal ihren Gatten sah, den König von Enroth, Roland. Und sie sprach ihre letzten Gebete. Als sie sie gesprochen hatte, bestieg sie ihr Ross, gab den verbliebenen Truppen, die das Massaker durch Finneas Vilmar überlebt hatten, ein Zeichen und dirigierte sie in Richtung Heimat. 
+     Unterwegs dachte sie weiter darüber nach, was der Gott ihr aufgetragen hatte. Sie fühlte sich von seiner friedvollen Stimme und seinem besonnenen Verhalten bewegt. Bereits auf dem Weg nach Hause würde sie damit beginnen, zerbrochenene Grenzzäune zu ihren Nachbarn auszubessern und die Ordnung in Erathia und Enroth wieder einkehren zu lassen - in der Welt von AvLee. Friedlich zusammenleben, miteinander Handel treiben, sich gegenseitig zu helfen in Zeiten der Krise. Das musste der Weg sein. So MUSSTE es sein. Ständig dachte sie daran: 'Wie würde Roland die Beziehungen mit den anderen Fraktionen wieder herstellen?' Er wusste immer, wie man die Bewohner glücklich machen konnte.
+     Aber gerade jetzt ist Roland nicht ganz er selbst...
+
+Die Saga nimmt ihren Fortgang mit "Heroes of Might And Magic IV" (Winds of War).     
+
+
+ 

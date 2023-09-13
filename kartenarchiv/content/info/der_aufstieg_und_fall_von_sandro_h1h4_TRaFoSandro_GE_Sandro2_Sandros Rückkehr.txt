@@ -1,0 +1,35 @@
+Kartenname: Sandros Rückkehr
+  (Teil 2 von "Der Aufstieg und Fall von Sandro")
+Datum: 1. Mai 2008
+Autor und Mapmaker: ByteBandit (lightmage55@yahoo.com)
+Deutsche Übersetzung: Koni (lewikon@t-online.de)
+Datei-Name: SANRETGE.MX2 (engl. Version SANDRET.MX2)
+Zusätzliche Änderungen und Aufzeichnungen: Muszka (dev7l@yahoo.com)
+Größe: Extra Large
+Version: Heroes of Might & Magic II (The Price of Loyalty)
+Sieg-Bedingung: Die Nekropole ShadowDeath einnehmen 
+Niederlagen-Bedingung: Den Helden Roland verlieren
+Beteiligte Tester: Muszka, Undead Half Orc, Corlagon und Darknessfood (Alle Map-Tester können bei Celestial Heavens.com kontaktiert werden.)
+Weiter erwähnenswert: BAD23ro - Für seine Herstellung einer No-CD exe. und eines No-CD Map Editor Patch für HoMM1. "Bravo!" Yurian Stonebow - Der meinte, dass eine Kampagne wie diese nötig war, um die älteren HoMM Spiele am Leben zu erhalten und neu zu entdecken. Akul - Für seine Hinweise auf der Celestial Heavens News-Seite, wodurch er eine große Fan Basis schuf, damit diese HoMM1 - IV Kampagne verwirklicht werden konnte.
+
+
+Description:
+
+     Unsere Geschichte nimmt 20 Jahre später ihren Fortgang, nachdem Lord IronFist die Bedrohung durch die Hexer [Warlocks] aus den nördlichst gelegenen Regionen von Enroth beseitigt hat. 20 Jahre! Wie die Zeit doch verfliegt und wie kurz doch unsere Zeit hier ist! Nord-Enroth hat sich nur wenig verändert, aber in der verstrichenen Zeit hat sich viel ereignet, wie es überall andernorts der Fall ist.
+     Lord Haart kehrte von seinem Krieg gegen die Hexenmeister als triumphierender Held zurück. Doch schon bald verschlimmerte sich die Lage für Lord IronFist und sein Königreich. Alle Fraktionen innerhalb seines Gebietes stellten sich gegen ihn infolge des Zwangs, ihre Soldaten in die Armee des Königs eingliedern zu müssen. Sie sahen in den Hexern keine Gefahr. Und hielten das alles für nichts weiter als einen Schachzug des Lords, über jedermanns Leben innerhalb des Königreichs bestimmen zu wollen. So sehr Lord IronFist sie auch vom Gegenteil zu überzeugen versuchte, für die Barbaren und Zauberinnen war das letzte Wort gesprochen. Bald darauf zogen sie ostwärts an das südliche Ende von Enroth, um dort ihr eigenes Leben zu leben, wo sie sich befreit sahen von der Dynastie der IronFists.
+     Und noch schlimmer als das: - vor dem großen Auszug der anderen beiden Fraktionen war Lord IronFists ältester Sohn Archibald aus dem Schloss IronFist entführt worden! Er rief so viele tapfere Männer, wie er nur konnte, auf den Plan, um nach seinem Sohn zu suchen. Viele taten es. Keiner kehrte zurück. So beschloss Lord IronFist, selbst nach seinem Sohn suchen zu wollen. Aber es verging nicht mehr als eine und eine halbe Woche auf seinem Zug, als er einer Krankheit anheim fiel. Seine Truppen brachten ihn zum Schloss zurück, wo er auf seinem Totenbett verblieb. Viele dachten, es sei der Krieg mit den Warlocks, was ihn geschwächt hatte. Aber es war der Verlust seines Sohnes Archibald, der seinen Tribut vom König forderte.
+     Lord IronFist ließ nach seiner Familie rufen, um sie an seiner Seite zu versammeln. Einer nach dem anderen betraten sie den großen Saal, wo er aufgebettet war, und hörten zu, was er ihnen zu sagen hatte. Zuletzt näherte sich Roland dem darnieder gestreckten Krieger.
+     "Mein Sohn. Mein einziger Sohn", sprach der König mit brüchiger Stimme. "Du bist der Erbe von Enroth. Nun ist es an Dir, das Königreich aufrecht zu erhalten. Möge Gott Dir beistehen."
+     "Vater. Ihr seid ein großartiger Mann. Und ich werde tun, was Euer Wunsch ist", sprach Roland. "Und ich werde die Suche nach meinem Bruder fortsetzen, wohin sie mich auch führen wird."
+     "Nein, mein Sohn. Lass ihn gehen. Ich werde mich schon bald mit ihm treffen. Er wartet bereits dort, um mich zu begrüßen", sagte Lord IronFist, wobei er zum Himmel zeigte.
+     "Aber Vater, ich..."
+     "Mein Sohn, das Königreich braucht Dich jetzt. Tu es für mich."
+     "Wie Ihr wünscht, MyLord."
+     "Deine Mutter... sie muss genug Schmerz erlitten haben. Ich wünsche nun mit ihr zu sprechen."
+     "Ich werde sie zu Euch holen. Auf Wiedersehen, Vater." Roland beugte sich nieder, um ihm auf die Stirn zu küssen.
+     Augenblicke später, während Roland vor der Tür auf seine Mutter wartete, hörte er sie weinen und wehklagen. Er wusste worüber. Es war das zweite Mal, dass er sie solche Sachen machen hörte.
+     Getrieben von Neugierde wünschte Roland zu sehen, wo sein Vater gegen die Warlocks gekämpft hatte. Er sammelte ein paar beherzte Soldaten um sich und begann seinen Marsch. Er würde sich als sehr lang erweisen. Aber was das Gute an der Sache war, die in Nord-Enroth verbliebenen Fraktionen schlossen sich bald wieder dem Königreich an. Es schien ein gutes Zeichen dafür zu sein, was möglicherweise auf ihn zukam. Würde die Region sein, wie sie vorher gewesen war, oder würde er Spuren von Sandros eventueller Rückkehr vorfinden? Wir setzen hier an, um mit unserer Geschichte fortzufahren.
+  
+     Die Saga setzt sich mit "Heroes of Might and Magic III: The Shadow of Death" fort.
+
+ 

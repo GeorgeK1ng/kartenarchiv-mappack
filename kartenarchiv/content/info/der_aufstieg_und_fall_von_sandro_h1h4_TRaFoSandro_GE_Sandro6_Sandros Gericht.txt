@@ -1,0 +1,50 @@
+Kartenname: Sandros Gericht
+  (Teil 6 von "Der Aufstieg und Fall von Sandro")
+Datum: 28. Mai 2008
+Autor und Mapmaker: ByteBandit (lightmage55@yahoo.com)
+Deutsche Übersetzung: Koni (lewikon@t-online.de)
+Datei-Name: Sandros Gericht.h4c (engl. Version Sandros Judgement.h4c)
+Weitere Verbesserung im Gameplay: Muszka (dev7l@yahoo.com)
+Ergänzende Storyelemente: Koni (Lewikon@t-online.de)  
+Größe: Extra Large mit Untergrund
+Version: Heroes of Might & Magic IV (Equilibris)
+Sieg-Bedingung: Alle besiegen, damit Sandro die Pforten von AvLee betreten kann.
+Niederlagen-Bedingung: Sandro verlieren, sodass er nicht mehr weiterexistiert.  
+Kartentester: Muszka, Koni, ByteBandit
+
+
+Beschreibung:
+
+     Rauch wälzte sich über Nicolais Kopf. Die ganze Luft in der Unterwelt war von Rauch geschwängert. Sein Pferd hatte während des Kampfes sein Bestes gegeben. Nicolai blickte zu Boden und bemerkte, wie Blut von seinem Körper tropfte. Er war verwundet worden. Ein scharfes Todesschwert hatte seine rechte Seite getroffen, genau über seiner untersten Rippe. Er begann seinen Halt zu verlieren, da näherte sich ihm einer seiner Schwertmänner.
+     "M'Lord!", rief der Schwertkämpfer. "Ihr seid verwundet! Jemand soll herkommen und unserem Kommandanten helfen." Die anderen Schwertkämpfer drehten sich zu Nicolai um. "Sir, wir haben Sandros Armee geschlagen. Wir haben gesiegt!"
+     "Habt Ihr irgendwelche Anzeichen von Sandro entdeckt, Schwertsmann?", fragte Nicolai mit schwacher Stimme.
+     "Einer der Reiter fand diesen Umhang und einen Stab nahe bei einem lodernden Scheiterhaufen, wo Sandro gestanden hatte, M'Lord. Der Champion durchbohrte ihn bei seinem Angriff auf Sandro. Er sagte, dass Blitze und Funken aus seinem Körper zuckten und er im Feuer verging. Und dies ist alles, was nach dem Todesstoß übrigblieb, Sir."
+     Der Schwertkämpfer half Nicolai von seinem Pferd. "Ich habe auf einmal eine Stille bemerkt, die von diesem abscheulichen Ort ausging." Nicolai lag auf dem Boden, während sich die Wundheiler um seine Wunde bemühten.
+     "Sagt mir, Schwertsmann. Wie viele meiner Männer sind noch übrig?" Seine Frage klang mehr wie eine Bitte.
+     "Wir haben viele von unserer Armee verloren, M'Lord. Doch es sind genug verblieben, um einen sicheren Weg hier hinaus zu finden."
+     Nicolai nickte zustimmend bei dieser teils entmutigenden Antwort.
+     Drei Tage später war Nicolai von seinem Feldlazarett aufgestanden. Er gab seinen Männern Befehl, sich für den Rückmarsch auf die Oberwelt von Axeoth bereit zu machen. Dann fiel er auf seine Knie nieder, faltete seine Hände zusammen und begann zu beten.
+     "Oh mein Gott. Danke für diesen Sieg. Danke, dass DU meine Männer verschont hast und diejenigen aufnimmst, die nicht mehr nach Hause zurückkehren werden. Und Dank auch dafür, dass DU mein eigenes Leben geschont hast. Wir stehen in Deiner Schuld, mein Gott."
+     Und gerade als Nicolai sich erhob, hallte eine tiefe Stimme wieder: "Du hast Dich als ein großer Krieger erwiesen, mein Kind. Nund ist die Zeit für Dich gekommen, in Frieden zu gedeihen und die diplomatischen Beziehungen mit Deinen Nachbarn für alle Zeiten wiederherzustellen. Das soll Dein nächster 'Kampf' sein. Aber wir spüren, dass Du dieser Herausforderung gewachsen bist."
+     "Gott?!", fragt Ihr. "Ich wünsche mir Frieden mehr als alles andere. Ich würde mein Leben dafür geben, Ich würde die Königreiche dafür eintauschen. Ich spüre ebenso, dass es nun möglich ist, jetzt, da die Bedrohung durch Sandro von AvLee genommen ist."
+     "Ja. DU warst es, der AvLee von Sandro befreit hat. Er wird niemals wiederkommen. Er ist nun in unseren Händen und wir werden über ihn zu Gericht sitzen gemäß den Gesetzen unseres Himmels. Es wird Dir leichter fallen, mit all den Parteien innerhalb AvLees zu Rande zu kommen, wenn sie erst herausgefunden haben, was Du hier fertig gebracht hast. Ich wünsche Dir dazu alles Gute, Nicolai."
+     "Was wird aus meinem Vater werden, mein Gott?", fragt Ihr die Stimme.
+     "Dein Vater war ein großartiger Mann. Er wurde dazu verleitet, was er getan hat. Wir sprechen ihn für diesen Fehler durch die 'Abrechnung' nicht für schuldig. Er liebte seine Frau, seine Kinder und alle Lebewesen, die in seinem Königreich beheimatet waren. Er wurde von uns aufgenommen, genau wie Du angenommen wirst, wenn Deine Zeit gekommen ist."
+     Nicolai verbeugte sich und schrie wie befreit auf, als ob eine schwere Last von seinen Schultern genommen worden war. Schon bald darauf näherte sich Sandra dem Lager, sprang von ihrem Ross und rannte auf Nicolai zu.
+     "Ich bin ja so froh, dass es Dir besser geht, Nicolai!", sagte sie.
+     Er schaute sie mit einem Lächeln an. "Ja, mir geht es schon besser. Würde es Dir gefallen, uns auf die Oberwelt von Axeoth zu begleiten?"
+     Sie erwiderte sein Lächeln: "Ja. Ich würde gern mit Dir gehen, zurück in Deine Welt. Ich bin nun eine Sterbliche. Der Fluch der Unsterblichkeit ist von mir genommen. Dafür habe ich dir zu danken."
+     Sie sammelten alle Einheiten und Vorräte, die ihnen aus der Schlacht verblieben waren, und begannen ihren Marsch in eine neue, gemeinsame Ära in AvLee.
+
+In der Zwischenzeit warten die Götter auf Sandros Ankunft vor ihr Gericht...
+     
+     
+
+
+
+
+
+     
+
+
+ 

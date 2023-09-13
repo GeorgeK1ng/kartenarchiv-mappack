@@ -1,0 +1,39 @@
+Kartenname: Sandro Wartet
+  (Teil 3 von "Der Aufstieg und Fall von Sandro")
+Datum: 10. Mai 2008
+Autor und Mapmaker: ByteBandit (lightmage55@yahoo.com)
+Deutsche Übersetzung: Koni (lewikon@t-online.de)
+Datei-Name: Sandro Wartet.h3m (engl. Version Sandro Awaits.h3m)
+Zusätzliche Änderungen und Text: Muszka (dev7l@yahoo.com)
+Größe: Extra Large mit Untergrund
+Version: Heroes of Might & Magic III (Shadow of Death)
+Sieg-Bedingung: Das Artefakt 'MdDV' nach Forge Town bringen
+Niederlagen-Bedingung: Königin Catherine verlieren
+Beteiligte Tester: Muszka, Undead Half Orc, Corlagon und Darknessfood (Alle Map-Tester können bei Celestial Heavens.com kontaktiert werden.)
+Weitere Erwähnung: Yurian Stonebow - Der meinte, dass eine Kampagne wie diese nötig war, um die älteren HoMM Spiele am Leben zu erhalten und neu zu entdecken. Akul - Für seine Hinweise auf der Celestial Heavens News-Seite, wodurch er eine große Fan Basis schuf, damit diese HoMM1 - IV Kampagne verwirklicht werden konnte.
+
+
+Beschreibung
+
+     Die Hochzeit von Roland und Catherine schien beinahe unausweichlich. Die Zeit des Werbens dauerte einige Monate nach dem Sieg über Sandro und dem Fall von ShadowDeath an. Die Hochzeit sollte in dem südlichsten Teil von Enroth stattfinden. Viele Abordnungen von Bewohnern aus allen Landesteilen waren zu dieser historischen Verbindung zwischen dem König von Enroth und der Königin von Erathia geladen. Skeptiker fragten sich, wer die wahre Herrschaft über dieses riesige Imperium, das sie gemeinsam geschaffen hatten, übernehmen würde. Um diesem Rätselraten ein Ende zu setzen, übereignete Catherine ihre Macht an Roland, hauptsächlich aus dem Grunde, wie er mit der Dunkelheit fertig geworden war, die Sandro über Enroth gebracht hatte. Alles schien gut zu laufen.
+     In einigen Monaten des Friedens und Wohlergehens erwies sich die Lage in beiden Reichsteilen größtenteils in Ordnung. Roland war so mit der Lage der Dinge zufrieden, dass er ein rauschendes Fest für alle im Imperium veranstaltete; es fand in der Hauptstadt New Erathia statt. Dort jedoch brachte einer seiner Gäste, ein Ritter mit Namen Christian, ein Thema auf, das die Aufmerksamkeit des Königs an sich zog.
+     "M'Lord. Wenn es mir gestattet ist", sagte Christian. "In Erathia sind in jüngster Zeit bestürzende Veränderungen in Erscheinung getreten. Wir Ihr vielleicht wisst, gibt es dort Eingänge in eine unterirdische Welt, anders als hier in Enroth."
+     "Ja, das ist mir bekannt, Herr Ritter", bestätigte Roland. "Fahrt fort."
+     "Nun, M'Lord, die Tunneleingänge sind aus unerklärlichen Gründen versperrt worden. Wir haben einige freigeräumt, können die Unterwelt aber weiterhin nicht betreten. Wir versuchten, der Ursache etwas nachzugehen, aber jetzt mussten wir damit aufhören. Wir nahmen an, dass es die Zwerge waren, die die Höhlen verschlossen haben, aufgrund ihres Bergbaus oder so. Aber als wir sie mit der Sache konfrontierten, zeigten sie sich unwissend über solcherart Vorgänge. Wir glauben nun, dass hier etwas Größeres am Werke ist."
+     "Was vermutet Ihr denn, was dahinter stecken könnte?", fragte Roland.
+     "Ich wünschte, ich wüsste es, M'Lord. Aber es ist anders als alles, was mir je zuvor untergekommen ist. Es ist enttäuschend zu wissen, dass wir nicht hinuntergehen und unerwünschte Banditen und so hochnehmen können."
+     Roland wandte sich daraufhin Catherine zu. "Vielleicht sollte ICH hingehen und mich persönlich um dieses Problem kümmern, meine Liebe."
+     "Das ist wahrlich für Erathia ungewöhnlich", entgegnete sie ihrem Gatten. Dann drehte sie sich zu Christian um und fragte: "Erfordert die Angelegenheit das Einschreiten des Königs, Sir Christian?"
+     "Es könnte nicht schaden, wenn sich eine anerkannte Autorität der Untersuchung dieser Sachlage annimmt, M'Lady", antwortete er.
+     "Ich sehe schon", stimmte Catherine zu. "Mein König, Sir Christian ist einer der besten Ritter, die Erathia hat. Wenn ihm diese Sache kritisch erscheint, ist sie vielleicht eine genauere Untersuchung wert."
+     "Dann sollte ich Vorbereitungen treffen, bereits morgen früh die Segel zu setzen. Christian, würdet Ihr mich nach Erathia begleiten?"
+     "Es würde mir eine Ehre sein, mein König."
+     "Gut, dann wird ein Schiff für uns an den Docks bereitstehen. Fertig zum Aufbruch. Aber für den Augenblick lasst uns erstmal dieses Schwein am Spieß mit Bier genießen!", lächelte Roland.
+     "Aye!", stimmten alle ein.
+     Roland und Christian setzten am nächsten Morgen die Segel nach Erathia. Es wurde nie wieder etwas von ihnen gehört.
+     Monat um Monat verging und Catherine hatte keine Kunde von Erathia über des Königs Reise vernommen, die das Rätsel über die Höhleneingänge entwirren sollte. Sie fragte so manche Besucher aus Erathia, ob sie etwas gehört hatten. Doch niemand hatte.
+     Voller Ungeduld die Rückkehr ihres Gatten erwartend, beschließt sie, die Dinge selbst in die Hand zu nehmen. Sie würde selbst nach dem König suchen. Sie war recht gut imstande, mit jeder Situation umzugehen, schon bevor sie Roland begegnet war. So schien es der Königin nur vernünftig, nach ihrem König zu forschen. Sie wollte ja schließlich nicht, dass ihr Sohn Nicolai ohne seinen Vater heranwuchs. Doch in der Zwischenzeit, während sie auf der Suche nach Roland war, schrieb sie Nicolai in der Königlichen Kriegsakademie in Axeoth ein. Sie hatten die besten Schulen für solche Fälle. Sie selbst hatte sie besucht, auf Befehl ihres Vaters, des Königs von Erathia.
+     Königin Catherine beginnt ihre Suche nach Roland...
+
+Die Saga nimmt ihren Fortgang mit "Heroes of Might And Magic III" (In the Wake of Gods 3.58f).
+ 

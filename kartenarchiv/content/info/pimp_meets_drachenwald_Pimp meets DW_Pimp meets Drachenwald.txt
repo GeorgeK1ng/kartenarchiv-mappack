@@ -1,0 +1,208 @@
+Hallo H3-Freunde,
+
+
+Erstmal die nackten Fakten:
+
+Name		:	Pimp meets Drachenwald
+Größe		:    	M
+Spieler		: 	1
+KI's		:     	7
+Teams		:      	2, Spieler plus 2 KI's gegen Rest
+Untergrund	:	Ja
+Art		:	Einzelspieler
+Genre		:	Adventure
+Story		:	Plus-minus wenig...
+
+
+
+Weiter will ich das Genre "Adventure" noch etwas näher erläutern:
+
+Wer kennt es nicht, das Vorzeige-Adventure Monkey-Island? Diese H3-Map
+lässt sich durchaus eher mit diesem Spiel, als mit einer klassischen H3-Partie
+vergleichen. Hauptsächlich liegt dieses an den kniffeligen Aufgaben, die in der
+Map gestellt werden, aber auch die Kämpfe und nicht zu vergessen die zu begehenden
+Wege sind recht schwer gestaltet. Soll heissen, dass viele Durchgänge versteckt, zum
+Teil verschlossen, oder unbegehbar sind.
+
+Wem also eine "normale" (alle plätten) H3-Partie zu langweilig geworden ist, der sollte
+hier einen neuen Reiz gefunden haben. Kämpfe zu gewinnen ist eine Sache, die Map zu ent-
+schlüsseln eine ganz andere! Hilfreich ist hier allerdings der Autor, der den einen oder
+anderen Tip preisgibt, wenn man ihm genau zuhört.
+
+Warum schreibe ich nun diese Zeilen vorweg? 
+Da ich die Karte als Adventuremap deklariere, sollte jedem Spieler klar sein, dass es fast 
+unmöglich ist, die Karte am Stück zu gewinnen. Also sollte sich jeder schon mal darauf einstellen,
+dass es möglicherweise hier und da passieren kann, dass man neuladen, bzw im schlimmsten Fall neu-
+starten muss. (Um letzteres zu vermeiden bitte ich um ausreichend Zwischenspeicherungen) Dieses wird 
+dir wahrscheinlich bereits am ersten Tag auffallen, sozusagen als Wachrüttler ;).
+
+Aber genug gesprochen: 
+Am besten stürzt du dich direkt ins Geschehen, schließlich ist das Kartenarchiv in Gefahr. Ach, und vor
+den Tips noch schnell eine Personenerklärung: Wer Pimp und Only noch nicht kennt sollte (schnell 
+Incredible Pimp runterladen) wissen, dass die beiden eigentlich Feinde sind, Erzfeinde. Was tut man 
+nicht alles fürs Archiv...
+
+
+Zu Guter Letzt:
+
+Herzlichen Dank an dieser Stelle für die Benutzung der Namen. Die Map heisst: Pimp meets Drachenwald,
+da brauchts einfach authentische Namen, die da wären:
+
+Matn, 			Tobius, 
+Onkel B, 		Scicco, 
+Felix de Ruiter, 	König Rösisch, 
+Frifix, 		Chan 
+und 			Gunnar
+
+
+
+Mit freundlichem Gruss: 
+
+
+I. Pimp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Und jetzt die Tips: 
+
+Hier folgt eher eine Art Lösungsbuch, daher nur im Zweifelsfall lesen! 
+
+
+
+
+
+
+
+
+
+
+
+1. Only ist in den ersten Wochen nur in "Gasthäusern" sicher. 
+   Finde dazu das weisse, rote und braune Schlüsselmeisterzelt, 
+   sowie die Preise mit Pimp. Only ist dann hinter den Garnisonen sicher.
+
+2. Die gesalzene Rechnung ist eher total versalzen! Hier sollte niemand übernachten.
+   Ebenso wird das Gasthaus des Quacksalbers ignoriert.
+
+3. Wie die Elfe sagt, muss Pimp das Zelt (die Burg) des Schlüsselmeisters am ERSTEN
+   Tag der zweiten Woche einnehmen. [Zitat: "EINS ist sicher."] Dann wird der Meister
+   dir sein Boot überlassen.
+
+4. Eine Chaoshydra geift alle Gegner um sie herum an! (Ach nee, aber trotzdem nicht unwichtig)
+
+5. Nachdem Pimp das dunkelblaue Schlüsselmeisterzelt des Meisters gefunden hat, kann Only gegen
+   Filigram Schnick-Schnack-Schnuck spielen, gewinnen und Dank der Wasserschuhe im Süden 
+   Richtung Nebelwerft weiterreiten. Auch geklonte Erzengel können Truppen auferstehen lassen,
+   aber Vorsicht: Es braucht drei (DREI) Erzengel, um einen Erzengel auferstehen zu lassen.
+
+6. Die Nebelwerft hat gegen Feuerwesen keine Chance. Only sollte mindestens 70 Feuerwesen pro 
+   Zauber auferstehen lassen (sonst Kommentar im Drachenwald, bitte). Gesegnete Feuerwesen greifen
+   natürlich besser an. (Verlangsamen, Feuerwesen, Segen --> Angriff!)
+
+7. Pimp besiegt die Kreuzritter, indem er dessen Rückangriffe mit Basilisken (o.Ä) abfängt und 
+   dann mit seinen Rittern zuschlägt. Der Idiot muss nicht, aber sollte ersteinmal links liegenge-
+   lassen werden (Hierzu später mehr).
+
+
+8. Jetzt sollten sich P&O im Drachenwald befinden. Tobius befindet sich im Südosten, während der 
+   Detailteufel im Nordwesten anzutreffen ist. Tobius kann Liche auferstehen lassen, daher sollten 
+   so viele Gegner wie möglich stehen gelassen werden. (mind 350 Liche)
+
+9. Der Bogen der Starshooper wird zum Teil von Pimp (Flammenwesen, Elfenbogen) und Only (Geister,
+   Einhornsehne) zusammengesetzt. Um die Engelsfedern zu bekommen müssen Only und Tobius hinter
+   dem grünen Beamer ins Wasser (und dort ersteinmal verweilen), während Pimp drüberwegläuft.
+
+10.Only hilft Pimp bestimmt gerne bei den Azurdrachen, bevor er fürs erste im Boot versauern muss.
+
+11.Die richtigen Antworten bei "IchMachEinenAufStimmt'S" lauten:
+
+
+
+	War nur 'n Witz, die verrat ich nicht
+
+
+
+12.Der Trojaner ist einfacher zu besiegen, wenn man im Untergrund direkt gen Westen reitet, Unis besucht
+   und die Anti-Resistent-Kugel hinter dem nordöstlichen Beamer holt. Damit der Trojaner oder einer seiner 
+   "Mit-viren" in der Oberwelt gefangen bleiben, sollte Only (oder Pimp, wenn er ScuttleBoat schon kann) 
+   alle benutzten Boote zerstören, bevor es in die Unterwelt geht.
+
+
+13.Der Eingang zum Himmel befindet sich direkt neben dem Eingang zum Hinterhimmel.
+   Der Eingang zum ControlPlanel befindet sich im Südosten (der Unterwelt).
+
+14.Deutschland wird Europameister!
+
+15.Nördlich der "Azurgarnison" im Himmel kann man durch den weissen Durchgang. (Einen Azur wird man 
+   vergeblich suchen). Direkt nördlich des Ausganges befindet sich ein freier Beamer.
+
+16.Im "Hinterhimmel" (nördlich des echten Himmels) muss Pimp übers Wasser laufen. Im Norden bis zur
+   Oase über dem grünen Beamer, westlich zum Wasserloch (und nicht zur Garnison).
+
+17.Ist der Trojaner besiegt, und hat Pimp den Erzengel, eine upgr. Drachenfliege, sowie die Reiterhand-
+   schuhe, so kann das Flammental durchschritten werden. Besuche dazu mit Pimp den Stall und stelle dich 
+   direkt an den Eingang des Tales. Am nächste Morgen hat Pimp dann (wenn er NUR den Erzengel und die upgr.
+   Drachenfliege dabei hat) maximale Bewegungspunktzahl. Nachdem Scicco (immernoch wartend und mit der 
+   gesamten Armee) freie Sicht gegeben hat (Augenhaus besuchen), kann Pimp durchs Tal schreiten.Spätestens
+   hier muss der Idiot (bereits) befreit sein.
+
+18.Hier (im Flammental) lernt Pimp den Zauberspruch "Boot herbeirufen", der Idiot blockiert den roten Monolithausgang, west-
+   lich des Drachenwaldes und Scicco durchschreitet "seinen" roten Monolithen. Jetzt kann Pimp auf den
+   roten Monolitheingang, ohne dass etwas passiert. (Idiot und Scicco blockieren die Ausgänge)
+
+19.Nachdem Scicco OnkelB befreit hat, kann er Pimp (der nach dem Flammental gestorben ist) in der Taverne
+   zurückkaufen. Jetzt sollten Pimp und Scicco im Osten an der Taverne stehen, und Pimp hat Chan bereits besiegt.
+
+20.Es wird warm...
+
+21.Ganz in der Nähe befindet sich jetzt Frifix Heim. Dafür benötigt Pimp jedoch das grüne Schlüsselzelt.
+   Dieses befindet sich neben MatnsMetropole und hält auch Matn davor ab Gunnars "Karten" zu vernichten.
+   Bei Matns Metropole muss Pimp dann auch den Kaiser besiegen, sich allerdings am Rückzugsbauern zurückziehen, um 
+   von Scicco ein weiteres Mal zurück gekauft zu werden. Jetzt kann Pimp zu Frifix Heim (und hat nebenbei
+   Matn befreit).
+
+22.Nun können Frifix und König Rö. Felix befreien und in der Nähe Onlys Startplatz kann der König seine und 
+   Pimps Artefakte einsammeln. In MatnsMetopole kann Pimp getroffen werden.
+
+23.Greife die goldenen Drachen ruhig an.
+
+24.Über das ControlPlanel kann man OnkelB besuchen.
+
+25.Es ist heiss!
+
+
+
+
+
+
+
+
+Puh, ein hartes Stück Arbeit ;)
+
+
+
+
+
+
+

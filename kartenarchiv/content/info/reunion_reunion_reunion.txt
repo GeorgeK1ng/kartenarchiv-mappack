@@ -1,0 +1,122 @@
+
+
+
+welcome to REUNION (for WOG 358f)
+
+
+XL with underground 
+8 HC 
+single and multiplayer
+custom alliances
+win  condition : standard
+lose condition : standard only
+
+mapmaker       : casi 
+email          : voyvoy@web.de
+
+
+please use our WoGSetupEx.dat (otherwise game balance is completely destroyed) !!!
+  (copy it to your main heroes directory after making a backup from your own WOGSetupEx.dat)
+
+-playing inferno is very easy (succubi)  -  starts with no units   
+-playing necropolis is easy (skeletons)  -  starts with fewer units
+-all others normal difficulty            -  starts with units
+  
+-after the game setup you can change teams and set alliances (default no teams)
+-if you want REAL ACTION, make one strong computer team (4 players or more) and the other players play alone
+-hero experts (hardcore gamer) should play on gamelevel impossible 
+
+this map was build over five years. some things are a little unusual, but if you take time 
+to learn more about the map, you will be rewarded with many hours of exciting gameplay.
+it´s real fun if you know the map a little.
+
+playing time for 6 months (with a lot quickcombats) :
+  -singleplayer about 6-8 hours            
+  -multiplayer  about 16-20 hours 
+
+
+      ----------------------------------------
+
+
+facts and tips:
+
+-no eagle eye
+-no level 5 mage guild
+-some spells only available at books, scrolls or quests
+-some prisons are only for the computer (in the teleport system, warnings appear),
+   these heroes are strong, have specials and are renamed
+-most artifacts/cities/monsters are random 
+-most monsters grow
+-buy level 8 creatures first in dwellings, than in towns
+-you can use bank,transfer all and buy all buttons in the city window
+
+-all inferno heroes (apart from 5 red starting heroes) are imprisoned or banned
+-sometimes inferno heroes (red player) are extreme powerful
+-most monsters are savage (diplomacy is still important for surrender,
+   later `week of the monster` creatures may join you)
+-you have at least eight weeks freedom (reunion normal) to explore your country, 
+   if the first computer is entering the teleport system, the war begins
+-you should conquer your land fast 
+-visit the black tent (your oneway teleporters) as soon as possible, 
+   then you can attack your neighbors
+-all important things are in the teleport system (artifacts,spells,tents and more)
+-in the teleport system, every tent has a guard, one azure dragon (event only for human players)
+-if you enter the teleport system, your hero is going off road for a long time 
+   and is meeting many enemies - but if he survives, he can become a lot stronger
+-to win the game you need at least one superhero (you can reach level 45 and all primary skills 99)
+-if you send a hero into the unkwown, there are good chances that he gets killed (be careful),
+   this is a XL map, and some very strong enemies may be undiscovered from you for a long time
+-money can be a big problem, don´t built units in all cities and save money for surrender
+-fulfil as many quests as possible, the quest in your hometown is your main quest
+   and gives you a strong boost
+-try to complete combo artifacts
+-look weekly in your tavern, after a while some good heroes with artifacts may appear
+-commanders are the most important units, build up them wisely
+-if strong enemies attack your land, use guerrilla tactics (sanctuary), in the beginning they
+   are handicapped and do not pass through your border gates
+-the player who starts diagonally above or diagonally below from you has the same color tent,
+   it´s of strategic significance
+
+
+      -----------------------------------------
+
+
+tent colors :                                                               
+
+black       - main borders     artifacts
+red         - some areas           "
+white       - some passage         "
+light blue  - some passage         "
+                    
+dark blue   - tower       and  dungeon         
+tan         - stronghold  and  inferno         
+green       - castle      and  necropolis      
+purple      - rampart     and  fortress        
+
+
+       -----------------------------------------
+
+
+five years ago we had played the fine map "vanadia´s rulers" by Stephane Smirnow.
+with some major changes it was our favourite map. hundreds multiplayer/single player
+games later almost every map area looked differently. after every game, we changed 
+the map a lot and added new features. if we found a winning strategy,
+then we made it more complex for the human players. we watched the computer play and
+arranged the map in a way such that the computer is able to play on full strength
+and the typical AI mistakes were avoided. because there are prisons 
+(some only for the computer), the battle can last for months. 
+even if you are playing our map more than once, you will always find new things,
+and every game should be different. we hope it is ok for Stephane that we have
+published reunion. this map would never exist without his work!
+
+
+ 
+thx : evi for endless playtesting   
+
+
+have fun !
+
+casi
+
+voyvoy@web.de
+

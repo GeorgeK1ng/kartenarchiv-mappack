@@ -1,0 +1,71 @@
+Kampagne Marsch auf Inferno
+
+Deutsche Version von Koni (lewikon@aol.com)
+Dateiname: Raid On Inferno (dt).h3c
+Version 1.1_light vom 04.12.2007
+Das Absturzproblem mit Kyrre beim Start der Map 3 wurde geseitigt.
+
+Original: Raid on Inferno (Raid_On_Inferno_en.h3c)
+Autor: Griffin_Eye (zabgar@e-mail.ru)
+Quelle: heroesportal.net
+
+Beschreibung:
+H3-Kampagne für das Addon SoD
+7 Maps in den Größen M M M M L L L
+
+Kampagnen-Kurzbeschreibung:
+
+Zwischen Erathia und Inferno herrscht zwar derzeit kein offizieller Krieg, aber die Mächte der Hölle planen einen neuen Angriff. Eine Gruppe tapferer Helden wird auf geheime Mission geschickt, um einen Gegenschlag vorzubereiten und Infernos teuflische Absichten im Keim zu ersticken.
+
+Kurzbeschreibung der Maps:
+
+A. Die Mutprobe - Die junge Zauberin Daremyth, aufgewachsen in Erathia, muss sich nach dem Willen ihrer Familie einer Mutprobe unterziehen, um sich auf einen geplanten Feldzug gegen das Inferno vorzubereiten, und dabei ein Relikt finden - den Donnerhelm. (Helm_dt.h3m)
+
+Daremyth muss den Donnerhelm finden und in die Hauptstadt Old Castle transportieren. Als Mutprobe kämpft sie dabei gegen ihre eigene Familie. Daremyth muss überleben und ist auf Stufe 15 begrenzt. Das Relikt und die Feuerzunge des Roten Drachen sind für weitere Szenarien lebenswichtig.
+
+Carryover-Held: Daremyth (Stufe 15) in Szenario B, Mitnahme-Artefakt: Donnerhelm und Feuerzunge des Roten Drachen  
+
+
+B. Der Grenzkrieg - Krieg an Erathias Grenze zu Tatalia mit den Sumpfbewohnern, angezettelt von Overlords aus Nighon. (Border_dt.h3m)
+
+Das Artefakt Schild der Wache muss von Tyris zur Festung Swamp Fort gebracht werden, während Daremyth den Donnerhelm in Besitz haben muss. Beide Helden gehen mit diesen Artefakten in verschiedene Szenarien über. Alle Helden sind auf Stufe 28 begrenzt.
+
+Carryover-Helden: Tyris und Daremyth (Stufe 28) in Szenario C bzw. D, Mitnahme-Artefakte: Schild der Wache bzw. Donnerhelm
+ 
+
+C. Das Zentrale Gebot - Tyris und Kyrre auf der Suche nach dem Titanengladius. (Central_dt.h3m)
+
+Tyris und Kyrre müssen das Schwert Titanengladius finden. Kyrre, die das Artefakt in Middleheim abliefern muss, sollte dann auch den Schild der Wache tragen, um für ihre nächste Aufgabe gerüstet zu sein. Alles ist verloren, wenn eine von beiden fällt. Alle Helden sind auf Stufe 33 begrenzt.
+
+Carryover-Helden: Kyrre und Tyris (Stufe 33) in Szenario E bzw. F, Mitnahme-Artefakte: Schild der Wache und Titanengladius (bei Kyrre), Nebenheld Gelu
+
+
+D. Schatzsuche in Bracadun - Daremyth sucht im verschneiten Bracadun nach dem Titanenharnisch. (Bracada_dt.h3m)
+
+Daremyth muss im Kampf gegen die Magier im verschneiten Bracadun den Titanenharnisch finden und nach Monk Abbey bringen. Alles ist verloren, wenn Daremyth versagt. Alle Helden sind auf Stufe 38 begrenzt, Daremyth aber nimmt alle Erfahrung, Fähigkeiten und Zauber mit ins letzte Szenario.
+
+Carryover-Held: Daremyth (Stufe 38) in Szenario F, Mitnahme-Artefakte: Donnerhelm und Titanenharnisch, Nebenheldin Sheila
+  
+
+E. Die Magische Kugel - Kyrre muss die Kugel der Verwundbarkeit finden. (Vulnrorb_dt.h3m)
+
+Die Waldläuferin Kyrre muss die Kugel der Verwundbarkeit finden und nach Forest Hole bringen. Alles ist verloren, wenn sie versagt. Kyrre ist auf Stufe 38 begrenzt, nimmt aber das Artefakt sowie all ihre Erfahrung und Zauber mit ins nächste Szenario.
+
+Carryover-Held: Kyrre (Stufe 38) in Szenario F, Mitnahme-Artefakte: Schild der Wache, Titanengladius und Kugel der Verwundbarkeit, Nebenheld Gelu
+
+
+F. Die Untotenhorde - Um im Land der Titanen und Azurdrachen eine Ausgangsbasis für den Marsch auf Inferno zu gewinnen, muss die Region erst von den eingefallenen untoten Horden gesäubert werden. (Base_dt.h3m)
+
+Daremyth, Tyris und Kyrre kämpfen gegen die Untotenhorde. Um sich mit Dracon zu vereinen, müssen sie die beiden Türme im Schneeland finden. Zutritt nur mit Titanendonner und Magischer Kugel. Dracon darf nicht sterben und ohne Daremyth ist die Kampagne nicht zu gewinnen. Heldenstufe max. 44.
+
+Carryover-Helden: Daremyth, Tyris, Kyrre und Dracon (Stufe 44) in Szenario G
+Mitnahme-Artefakte: Donnerhelm und Titanenharnisch (bei Daremyth), Schild der Wache, Titanengladius und Kugel der Verwundbarkeit (bei Kyrre),
+Nebenhelden Sheila, Gelu und Mutare
+
+
+G. Kampf im Inferno - Nach einer fieberhaften Suche finden unsere Helden das Tor zur Hölle und wagen den Marsch ins Inferno, um dem Bösen Einhalt zu gebieten. (Inferno_dt.h3m)
+
+Der Endkampf im Inferno steht bevor. Daremyth und ihre Freunde müssen das Tor zur Hölle finden und alle teuflischen Mächte besiegen. Der Endgegner ist nur mit dem Zauber Dimensionstor zu erreichen.
+
+Haupthelden (als Carryover): Daremyth, Tyris, Kyrre, Dracon - Nebenhelden (angepasst): Sheila, Gelu, Mutare    
+
