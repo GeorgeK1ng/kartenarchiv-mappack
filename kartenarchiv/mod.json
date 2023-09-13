@@ -1,0 +1,20 @@
+{	
+	"name" : "Kartenarchiv",
+	"description" : "Kartenarchiv is a map pack for HoMM3 based on www.kartenarchiv.de maps. Most of the maps are german.",
+	"version" : "1.0.0",
+	"author" : "",
+	"contact" : "http://www.kartenarchiv.de/",
+	"modType" : "Maps",
+	"compatibility" :
+	{
+		"min" : "1.4.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"german" : {
+		"name" : "Kartenarchiv",
+		"description" : "Kartenarchiv ist ein Kartenpaket für HoMM3, das auf www.kartenarchiv.de Karten basiert. Die meisten der Karten sind deutsch."	
+	}
+}
