@@ -1,0 +1,25 @@
+Kartenname: Sandros Ankunft
+  (Teil 1 von "Der Aufstieg und Fall von Sandro")
+Datum: 1. Mai 2008
+Autor und Mapmaker: ByteBandit (lightmage55@yahoo.com)
+Deutsche Übersetzung: Koni (lewikon@t-online.de)
+Datei-Name: SAGE1234.MAP (engl. Version SAAR1234.MAP)
+Zusätzliche Änderungen und Aufzeichnungen: Muszka (dev7l@yahoo.com)
+Größe: Large
+Version: Heroes of Might & Magic I
+Sieg-Bedingung: Alle besiegen
+Niederlagen-Bedingung: Alles verlieren
+Beteiligte Tester: Muszka, Undead Half Orc, Corlagon und Darknessfood (Alle Map-Tester können bei Celestial Heavens.com kontaktiert werden.)
+Weiter erwähnenswert: BAD23ro - Für seine Herstellung einer No-CD exe. und eines No-CD Map Editor Patch für HoMM1. "Bravo!" Yurian Stonebow - Der meinte, dass eine Kampagne wie diese nötig war, um die älteren HoMM Spiele am Leben zu erhalten und neu zu entdecken. Akul - Für seine Hinweise auf der Celestial Heavens News-Seite, wodurch er eine große Fan Basis schuf, damit diese HoMM1 - IV Kampagne verwirklicht werden konnte.
+
+
+Beschreibung:
+ 
+     Ein mächtiger Hexer namens Sandro hat sich einen Herrschaftsbereich in einer Region im fernen Westen von Enroth geschaffen. Sein Drang nach Ressourcen und Land scheint ohne Grenzen zu sein. Und scheinbar fällt es ihm leicht, diesen Teil Enroths zu erobern. Alle ringsum fallen ihm zum Opfer und lassen sich von seinen üblen Machenschaften verführen; woraufhin sie gezwungen sind, sich seiner Gier nach Macht und Tyrannei zu beugen, was wiederum nur seine Macht weiter steigert.
+     Lord IronFist hat durch von ihm beauftragte Kundschafter von dieser Geißel erfahren. Es wird ein langer Weg sein, Sandros Errungenschaften zu zerstören, sagen sie, aber was getan werden muss, ist zu tun, oder alles wird verloren sein. Instabilität innerhalb seines Reiches ist nun wahrlich nicht gut zu gebrauchen, in einer Zeit, wo IronFists Frau gerade seinem zweiten Sohn, Roland, zur Geburt verhilft und der kleine Archibald noch der Mutterbrust bedarf.
+     Lord IronFist fühlt, dass er die Zauberinnen des Nordens davon überzeugen muss, bei der Beseitigung dieser Plage behilflich zu sein. Wenn sie sich weigern, dann sollen sie sich seinem Schwert beugen. In seines Königreichs Namen! Und die Truppen der Zauberinnen werden diesen Hexer unter Eurem Kommando bekämpfen! Eine junde Maid mit Namen Gem hat sich in der Vergangenheit hilfreich gezeigt. Vielleicht ist sie auch diesmal einem Dienst nicht abgeneigt. Sie soll sich zuletzt in einer Gegend namens Erathia aufgehalten haben, wo sie gerade ihre Ausbildung im Bogenschießen abgeschlossen hat.
+     Die Barbaren im Osten mögen ein wenig schwerer zu überzeugen sein, dass ihr Land möglicherweise von dieser drohenden Gefahr überrannt wird. Die Trolle und Goblins sind zu sehr mit ihrem Bergbau befasst, als dass sie sich um solche Sachen kümmern. Sie meinen wohl, falls ein Angriff auf die Wüstengebiete erfolgen sollte, dass sich ein Feind schnell zurückziehen wird und seine Reichtümer anderswo sucht. Aber auch sie werden der Wucht seines Schwertes weichen und zum Wehrdienst gezwungen werden, falls sie sich dafür entscheiden, sich nicht mit der Ritterschaft von Enroth zu verbünden. Zwei mächtige Barbaren, Crag Hack und sein jüngst ernannter Zögling Yog werden ihm gehorchen oder weichen müssen.
+     Aber die Bedrohung ist real. Und es muss ihr angemessen begegnet werden. Wenn sich Euch niemand anschließen will, um Sandro vom Königreich fernzuhalten, dann sollen sie für das Königreich zugrunde gehen.
+     Eure Späher vermuten desweiteren, dass sich die Warlocks in den südlichen Regionen des erforschten Enroth angesiedelt haben, will sagen, in den Ländern südlich der Wüste. Eine Gegend, die Lord IronFist niemals zu erforschen vorhatte. Verschneite Gebirgszüge in jenem Landesteil stellen eine sichere Grenze dar, dachte er. Aber nun ist die Grenze durchlöchert und das Land jenseits des Gebietes, wo sich die Warlocks breit gemacht haben, steht nun auch von selbst anderen möglichen Eindringlingen offen, wenn man die Lage nicht schnell in den Griff bekommt. Geschichten von Wizards und solchem Unsinn kursieren von jenseits der äußeren Gebiete. Ihr schickt den Ritter Eures Vertrauens, Lord Haart, los, um die Situation zu bereinigen. Und wieder einmal rüstet Nord-Enroth zum Krieg. Diesmal für das Wohlergehen des Reichs.
+
+Die Saga geht weiter mit "Heroes of Might & Magic II: The Price of Loyalty"....

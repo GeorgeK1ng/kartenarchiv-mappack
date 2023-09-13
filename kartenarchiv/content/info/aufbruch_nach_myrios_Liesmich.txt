@@ -1,0 +1,90 @@
+=============================================================================================================
+=================================== A u f b r u c h   n a c h   M y r i o s =================================
+=============================================================================================================
+
+
+
+	I. 	Kurzinfo
+
+	II. 	Über diese Map
+
+	III. 	Anmerkungen
+
+
+
+	I. KURZINFO
+	-----------
+
+
+	Autor: 			stefancoe
+	e-mail: 		stefancoe@hotmail.com
+	Homm3 Version: 		Shadow Of Death
+	Art der Map: 		Multiplayer 
+	Max. Spieler Anzahl:	4 (+1 Computer Player)
+	Grösse:			M
+	Untergrund: 		ja
+	Siegbedingungen:	Gralgebäude errichten
+	Gral:			Vorhanden
+	Sprache:		Deutsch
+
+
+
+	II. ÜBER DIESE MAP
+	------------------
+
+	Jeder Spieler startet in einer Ecke auf der Oberfläche auf einer kleinen Halbinsel mit einer Stadt.
+
+	In "Aufbruch nach Myrios" wird der Spieler recht bald mit dem ersten (und gleichzeitig auch grösstem) Problem 
+	konfrontiert, das es zu lösen gilt: mangelnden Ressourcen. Diese werden am Anfang nicht nur für den Ausbau der
+	ersten Stadt dringend benötigt; auch mächtige Artefakte, Zaubersprüche, Kreaturenbehausungen und die besten
+	Sekundärfähigkeiten kann man erst durch Ressourcen-Opfer erlangen. 
+
+	Da diese wie erwähnt rar gesäht sind, muss sich der Spieler bereits recht früh entscheiden, wie er seine
+	spärlichen Ressourcen zu Beginn am besten einsetzen will: lieber die Stadt ausbauen? Lieber wichtige Fähigkeiten 		erlangen? Die Primärskills steigern? Oder doch lieber ein mächtiges Artefakt an sich nehmen? 
+	Alles geht nicht - es müssen Entscheidungen getroffen werden!
+
+	Die einzigen ertragreichen Minen liegen im Zentrum der Map und hier wird bald ein tobender Kampf beginnen: jeder 		Spieler will die Kontrolle über die Minen zu erlangen, denn die Minen zu kontollieren bedeutet mehr Ressourcen. 
+	Und mehr Ressourcen bedeuten mehr und bessere Artefakte, Zaubersprüche, Kreaturen, etc.
+
+	Doch die gegnerischen Parteien an der Oberfläche sind nicht die einzigen Feinde, die es zu bekämpfen gilt. Tief im
+	Untergrund erhebt sich das mächtige Dungeon-Imperium zu einer aufstrebenen Macht. Obwohl es zu Beginn noch recht
+	schwach ist und nicht durch die stark befestigten Garnisionen der Oberflächen-Spieler dringen kann, so wird es im 		Laufe der Zeit zu einer ernsten Bedrohung.
+
+	Denn je mehr Zeit verinnt, desto stärker werden die Anführer der Overlords und desto stärker werden ihre Armeen. 
+	Haben sie am Anfang nur Troglodyten und Harpien, stehen schon bald Minotauren und Manticoren in ihren Reihen. 
+	Irgendwann werden sie Schwarze Drachen führen und dann wird sie nichts mehr stoppen können - keine Garnision 
+	und keine noch so gute Stadtbefestigung!
+
+	Bleibt nur zu hoffen, dass der Spieler zu diesem Zeitpunkt wenigstens einen mächtigen Helden mit einer starken
+	Armee hat...
+
+
+
+
+	III. ANMERKUNGEN
+	----------------
+
+	- Bestimmte Helden wurden aus dem Spiel gestrichen. Dazu zählen insbesondere Helden, die als Spezialfähigkeit
+	  "Logistic", "Offense", "Armor" und "First Aid" besitzen.
+
+	- Alle Helden - egal ob Macht oder Magie - verfügen zu Beginn über ein Zauberbuch zu Beginn, jedoch ohne 	  	  	  Zauberspruch. 
+
+	- Die Fähigkeiten "Ballistics", "Scouting", "Artillery" & "First Aid" wurden aufgrund ihrer geringen Bedeutung auf 	  	  dieser Map aus dem Spiel gestrichen.
+
+	- Einige Zaubersprüche sind aufgrund ihres geringen Nutzens (z.B. Protection from Water) nicht verfügbar, andere
+          Zaubersprüche (wie z.B. Dimension Door, Fly, etc.) sind nicht verfügbar, da sie zu mächtig für diese Map sind.
+
+	- Einige Artefakte sind aufgrund ihres geringen Nutzens (z.B. Stoic Watchman) nicht verfügbar, andere
+          Artefakte (wie z.B. Angel Wings, etc.) sind nicht verfügbar, da sie zu mächtig für diese Map sind.
+
+	- Zu Beginn können für jede der vier Startpositionen können nur zwei bestimmte Stadttypen ausgewählt werden und
+	  auch nur die entsprechenden Helden dieses Stadttyps angeworben werden. Warum? Es verhindert, dass Spieler 
+	  besiegte und hochgeskillte feindliche Helden in der Taverne anwerben können. 
+
+	- Fehler gefunden? Dann bitte e-mail (siehe oben) an mich! Besten Dank! :-)
+
+
+
+	Gruss,
+	Stefancoe
+	(10-02-2011)

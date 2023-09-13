@@ -1,0 +1,69 @@
+Map Name:	To Kill for Power (TOKILL~1.H3M)
+Map Maker:	Tang Wen En, Fiery Phoenix
+E-Mail Address: p3dantic@yahoo.com.sg
+ 
+IMPORTANT!!!:   I apologise if anyone who has played my previous maps has sent email to my other account and not gotten a reply. I have forgotten the password and thus am unable to check that account. I apologise for my senility. 
+
+Map Type:	1H 7C
+Language:	 English
+
+Description:	You are Lyndor. Powerful, legendary, trapped. You vow vengence on all who have opposed you and all who are good. Swift, fierce, useless. That is, until now.
+
+Special Win:	Acquire Artifact
+Special Loss:	None (try not to lose Lyndor though)
+Map Size:       Extra Large
+Special Other:	You *will* have to lose Lyndor just once. Thus my inability to make losing him a lose condition.
+
+Miscellaneous: 
+Please pay close attention to any text or instructions you may encounter.
+Month of... creatures may halt your progress in certain points. Make it a habit to reload autosaves until the month is not a month with little monsters trooping around the map if you do not want to run the risk of pulling your hair out 50 turns down the road.
+You will encounter secret passages again, please note that my secret passages are not beaconed out by those digusting palm trees. They are QUality secret passages =)
+
+Play-Testers:   Behemoth               behemoth@valhalla.com.pl
+                Sir Charles            capliske@swbell.net
+                Jenn                   jhil@tisd.net
+                
+HINTS/TIPS *SPOILERS*
+
+
+
+
+1) To defeat the hero with the angel in the astral prison, use slow.
+
+2) To defeat everybody else in there, use the "wait, attack, attack" tactic.
+
+3) If you dally, you may encounter forces too strong for you in the inferno area. But if you *do* dally, they'll build up things for you. 
+
+4) Aine's too powerful to take out without a certain spell. You'll get it later, don't worry.
+
+5) So you've defeated the wizards, stuck? Secret passages...
+
+6) Do take (at most) 15 archdevils with you into the Valley of Tempus. You'll just waste them if you bring more. *gasps* are to prevent boats from landing.
+
+7) Sometimes, retreat is a good idea. Dismissing unnecessarily can be exceedingly dangerous to your health.
+
+8) So, Tunnel of Terra visited. Where to next? Secret Passages...
+
+9) The Dragons will aid you. If you find their cliffs. Secret passages...
+
+10) Hear that the elves have escaped and are fleeing? Perhaps you would like to find their homesteads as well? Secret passages...
+
+11) The Cavern of Aqua. The only place to get spells at half price. Or double. Or something. (I have to be obscure, not succeeding, am I?=) And of course, water flows in many directions, sometimes, you just have to go with the flow.
+
+12) Thr grail diggers. You see them, you kill them, if you feel mean, but the Cavern of Terra? Secret passages...
+
+13) Lyndor would love to kill Elleshar, but he can't have all the glory, all the time, can he?
+
+14) Cavern of Ignis is found beneath a hotbed of lava. Explore the volcanic eruptions in the cavern CAREFULLY.
+
+15) Defeating the Four is easy. If you have the correct artifacts. When you reach the storehouse of the elements, be sure to pick the right artifacts. Read their descriptions and choose wisely.
+
+16) Terra has a KILLER spell (implosion: 12000+ [that's right, twelve thousand] damage), protection would be good, as would imunity, or if not, resistance.
+
+17) Sometimes, Aeris refuses to power up, you will have to make do with a lousy Aeris then. Beware her haste.
+
+18) Aqua is by far the sneakiest of the Four. Beware her clone and teleport.
+
+19) Ignis is a brainless boob. Playing correctly, he will not use a single spell of his against you.
+
+20) Return to the Cavern of Ignis with the proper artifacts to win. Or lose. However you interpret it.

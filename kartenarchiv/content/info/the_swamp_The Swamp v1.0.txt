@@ -1,0 +1,89 @@
+Heroes of Might and Magic III: The Shadow of Death
+The Swamp (Version 1.0)
+
+by eZieweZie, with help of Alexakis and Pizeon
+
+==============================
+
+Titel:			The Swamp (Der Sumpf)
+Version:		1.0
+Autor:			eZieweZie
+			
+Kartenversion:		The Shadow of Death
+Spieler:		6 (Mensch oder Computer)
+Teams:			keine
+Größe:			108x108
+Oberfläche:		Ja
+Untergrund:		Ja
+Schwierigkeit:		Normal
+
+
+==============================
+
+Information zur Karte: (für die Faulen, siehe Kurzfassung unten)
+
+Dies ist eine 6 Spieler Karte im Turnier-Stil, d.h. alle Spieler haben dieselben Spielbedingungen und 
+
+es gibt keine Story. Die Karte ist von Grund auf symmetrisch aufgebaut. Mir hat die RoE Karte "Kriegsherren" 
+
+sehr gefallen, doch sie war unfair und mir fehlten viele Elemente. Die Symmetrie und das Gleichgewicht
+
+spielen hier die wichtigste Rolle: die Entfernungen zwischen Städte und Minen und Untergrundtore sind dieselben,
+
+Dwellings und andere Gebäude wurden ähnlich weit von einander plaziert. 
+
+
+Jeder Spieler hat sein eigenes Startgebiet in dem er sich anfangs entfalten kann, unter anderem durch das 
+
+Einnehmen von Minen und das holen von Resourcen und einem Artefakt. Es gibt (zum Zeitpunkt im Spiel) nur einen
+
+Weg heraus, und zwar durch das Untergrundtor. Die Unterwelt ist ausschlaggebend für die Mobilität eines Spielers,
+
+ebenso wie für seine Entwicklung, aufgrund der vielen Passagen die miteinander verbunden sind und die mit
+
+Minen und Artefakten gefüllt sind. Alle Minen sind strategisch plaziert worden, im Verhältnis zu denen in den 
+
+Startgebieten an der Oberfläche und in der Unterwelt, um das Resourceneinkommen auszubalancieren. Auch wurden
+
+Söldnerlager, Marletto Türme und Sternenachsen strategisch und fair positioniert.
+
+
+Die 4 großen Räume in der Unterwelt enthalten unter anderem eine Goldmine sowie ein Portal zu einer der 4 Inferno 
+
+Städte und Zugang zum einzigen Portal das zum berüchtigten Sumpf führt.
+
+
+Der Sumpf ist von enormer Wichtigkeit, denn dort hat man Zugang zu allen Städten, außerdem trifft man auf
+
+die Arena und die Bibliothek der Erleuchung, sowie der Kriegsschule und 2 Questgeber die mächtige Artefakte
+
+schützen. Ebenfalls hat man Zugang zur Drachenutopia das von Drachen Dwellings umgeben ist; so kann man sich 
+
+je nach Laune eine Drachen Armee aufbauen. 
+
+
+KURZFASSUNG: 
+
+Symmetrische, ausbalancierte Karte
+Unterwelt ist wichtig für Mobilität und Wachstum
+Sumpf bietet Zugang zu allen Städten an der Oberfläche und beinhaltet wichtige Gebäude
+Der schnellere Spieler wird immer belohnt, der schnellste Gewinnt
+Möglichkeit eine Drachenarmee, eine Enchanterarmee und eine Sharpshooterarmee zu rekrutieren
+Hautpstädte können nur von 2 Richtungen aus angegriffen werden
+Startgebiete sind dynamisch (enthalten eine Wind- und eine Wassermühle, 3 Dwellings, einen Brunnen, etc.)
+Esthetische Abwechslung, nicht übertrieben, "realistisch"
+
+==============================
+
+
+Feedback und Kommentare sind erwünscht. Bitte behaltet das Prinzip dieser Karte im Auge bevor Ihr reagiert (es
+
+ergäbe keinen Sinn zu sagen: "Langweilig, keine Quests und keine Hintergrundgeschichte" denn das ist auch
+
+nicht das Ziel dieser Karte).
+
+Vielen Dank!
+
+
+
+ezrabottequin@hotmail.com

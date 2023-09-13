@@ -1,0 +1,168 @@
+ÚJ LÉNYNEVEK
+
+Beholder->Octabrain
+Archer->Crossbowman
+Wolf Rider->Wolf
+Wood Elf->Elf
+Crystal Dragon->Dragon Golem
+Medusa Queen->Venom Spawn
+Rogue->Bandit
+Troll->Berserker
+Stone Golem->Rock Golem
+Iron Golem->Metal Golem
+Zealot->Arch Monk
+Grand Elf->Wood Archer
+Dendroid Guard->Treefolk
+Dendroid Soldier->Briar Treefolk
+Vampire Lord->Nosferatu
+Gorynych->Three-headed Dragon
+Black Knight->Dark Warrior
+Dread Knight->Black Knight
+
+-----------------------------------------
+
+HÕS SPECIALITÁS VÁLTOZÁSOK
+
+Valeska (Archers)
+Növeli az att., def. értékeket 2-vel és a dmg. értéket 3-mal.
+Clancy (Unicorns)
+Növeli az att. értéket 3-mal, def. értékeket 2-vel és a dmg. értéket 3-mal.
+Theodorus (Magi)
+Növeli az att. értéket 3-mal, def. értékeket 1-gyel és a dmg. értéket 4-gyel.
+Galthran (Skeletons)
+Növeli az att., def. és a dmg. értéket 2-vel.
+Dace (Minotaurs)
+Növeli az att. értéket 2-vel, def. értékeket 3-mal és a dmg. értéket 2-vel.
+Shiva (Thunderbirds)
+Növeli az att., def. értékeket 4-gyel és a dmg. értéket 5-tel.
+
+Vokial
+A Vampire-ket fel tudja fejleszteni Nosferatu-ra.
+Josephine
+A Rock és Metal gólemeket fel tudja fejleszteni Gold Golemre.
+Ivor
+Az Elfeket fel tudja fejleszteni Sharpshooterekre.
+Gretchin
+A goblinokat fel tudja fejleszteni Ogre Magikre.
+Gelu
+A Crossbowman-, Marksman-, Wood Archer-, Elf-, Orc-, Orc Chieftain-, Lizardman-, Lizard Warriorokat fel tudja fejleszteni Sharpshooterekké.
+Lord Haart
+A Championokat fel tudja fejleszteni Black Knightokra. [Ez a Black Knight igazából a Dread Knight, de már élõ, van morálja, de tudja azokat is amit eddig( Curses enemies. Death Blow attack)]
+Mutare
+A Black Dragonokat és a Dragon Golemeket fel tudja fejleszteni Rust Dragonokra. /Dragon Golem tulajdonsága: flying, breath attack, immune to mind & fire spells/
+
+-----------------------------------------
+
+VÁRAK
+
+    1. Castle
+1. szint-Squires
+1. szint fejlesztett-nincs
+2. szint-Crossbowmen
+2. szint fejlesztett-nincs
+3. szint-Pikemen
+3. szint fejlesztett-nincs
+4. szint-Monks
+4. szint fejlesztett-nincs
+5. szint-Crusaders
+5. szint fejlesztett-nincs
+6. szint-Champions
+6. szint fejlesztett-nincs
+7. szint-Angels
+7. szint fejlesztett-nincs
+
+    2. Rampart
+1. szint-Sprites
+1. szint fejlesztett-nincs
+2. szint-Wolves
+2. szint fejlesztett-nincs
+3. szint-Elves
+3. szint fejlesztett-nincs
+4. szint-Unicorns
+4. szint fejlesztett-nincs
+5. szint-Griffins
+5. szint fejlesztett-nincs
+6. szint-Faerie Dragons
+6. szint fejlesztett-nincs
+7. szint-Phoenix
+7. szint fejlesztett-nincs
+
+    3. Tower
+1. szint-Halflings
+1. szint fejlesztett-nincs
+2. szint-Magi
+2. szint fejlesztett-nincs
+3. szint-Gold Golems
+3. szint fejlesztett-nincs
+4. szint-Master Genies
+4. szint fejlesztett-nincs
+5. szint-Nagas
+5. szint fejlesztett-nincs
+6. szint-Titan
+6. szint fejlesztett-nincs
+7. szint-Dragon Golems
+7. szint fejlesztett-nincs
+Ide tartoznak még a váron kívül megvásárolható Dwarves-ok.
+
+    4. Necropolis
+1. szint-Skeletons
+1. szint fejlesztett-nincs
+2. szint-Ghosts
+2. szint fejlesztett-nincs
+3. szint-Cerberi
+3. szint fejlesztett-nincs
+4. szint-Vampires
+4. szint fejlesztett-nincs
+5. szint-Venom Spawns
+5. szint fejlesztett-nincs
+6. szint-Devils
+6. szint fejlesztett-nincs
+7. szint-Bone Dragons
+7. szint fejlesztett-nincs
+Ide tartoznak még a váron kívül megvásárolható Impek.
+
+    5. Dungeon
+1. szint-Orcs
+1. szint fejlesztett-nincs
+2. szint-Medusas
+2. szint fejlesztett-nincs
+3. szint-Minotaurs
+3. szint fejlesztett-nincs
+4. szint-Efreeti
+4. szint fejlesztett-nincs
+5. szint-Nightmares
+5. szint fejlesztett-nincs
+6. szint-Hydras
+6. szint fejlesztett-nincs
+7. szint-Black Dragons
+7. szint fejlesztett-nincs
+Ide tartoznak még a váron kívül megvásárolható Banditák.
+
+    6. Stronghold
+1. szint-Centaurs
+1. szint fejlesztett-nincs
+2. szint-Harpies
+2. szint fejlesztett-nincs
+3. szint-Nomads
+3. szint fejlesztett-nincs
+4. szint-Ogre Magi
+4. szint fejlesztett-nincs
+5. szint-Cyclopses
+5. szint fejlesztett-nincs
+6. szint-Thunderbirds
+6. szint fejlesztett-nincs
+7. szint-Behemoth
+7. szint fejlesztett-nincs
+Ide tartoznak még a váron kívül megvásárolható Berserkerek.
+
+A fel nem sorolt lények váron kívüli lények lettek.
+
+-------------------------------------------------------------------------------------------
+
+ÚJ ARTIK
+
+Blade of Fire
+
+--------------------------------------------------------------------------------------------
+
+továbbiak ...

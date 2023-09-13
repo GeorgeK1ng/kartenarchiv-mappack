@@ -1,0 +1,110 @@
+
+-------------------------------Mittelerde 3.0.h3m------------------------------------------------
+
+Diese Karte basiert ursprünglich auf der englischen Karte "Middle earth 2.3" von Lord Hoborg XVII
+
+> Direktlink : http://celestialheavens/features/maps/Middle%20Earth%202.3.zip
+
+> Seite (auch mit seinen alten Versionen) = http://celestialheavens/features/maps/?N=D
+
+
+Karte wurde auf deutsch umgestellt, mit Erklärungen zu den Städten,Monstern,Artefakten versehen,
+und den Biographien der Helden sowie der Geschichte der Länder.
+
+
+
+----------------------------Gravierende Änderungen-----------------------------------------------
+
+> auf der Landkarte: Isengard/Fangorn, Lorien, Numenor, Arnor, Süd-Gondor, Valinor, Moria, im Untergrund, Dimensionstore
+
+> die Aufgabe : 
+Nur die "Guten" (Menschen, Elben, Zwerge) können das Szenario mit der Vernichtung des Ringes im Schicksalsberges beenden.
+
+Die "Bösen" brauchen den Ring zur Rückkehr Saurons, dessen Stärke 
+und die Erfüllung weiterer Aufgaben im weiteren Verlauf 
+(Befreiung von Melkor durch Sauron;Befreiung der Fliegenden Helden Turingwethil und Ancalagon durch Melkor)
+den Sieg über "Vernichtung aller Feinde" sehr wahrscheinlich macht.
+("Der Eine Ring" befindet sich dann an der Hand Saurons und bleibt im Spiel, um Frodo´s Aufgabe weiterhin zu ermöglichen)
+
+> Teams: 4 gegen 4 
+Gondor - Zwerge/Hobbits - Elben/Gandalf - Rohan
+Umbar/Harad/Khand/Ostlinge - Isengard/Orks - Mordor/Dol Guldur - Nazgul
+
+> Anderer Ring:
+ewig rauchender Schwefelring kann nicht durch 
+Schatzkiste,verlassenes Schiff und Meereskiste ein zweites mal auftauchen
+
+> zusätzliche Helden aus dem "Herrn der Ringe" und dem Hobbit.
+
+> zusätzliche Städte:
+Graue Anfurten, Michelbinge, Esgaroth, Framsburg,Dorwinion,
+Khand,Tharbad, Fornost, Annúminas, Eisenhügel, Gramberg, Dwimorberg
+
+> Einbau von Orten aus Beleriand:
+Angband, Menegroth, Gondolin, Belegost, Nogrod
+
+> Verbot der Zaubersprüche Dimensionstor, Implosion und Fliegen 
+(Fliegen nur für bestimmte Helden erlaubt, nämlich Hexenmeister,Smaug, Ancalagon,Turingwethil 
+und in der Magiergilde von Valimar erlernbar)
+
+> Schutz vieler Städte durch Garnisionen
+
+
+> Jede Farbe hat jeweils eine Stadt mit Gralsgebäude, Taverne oder Marktplatz.
+  Neutrale Städte haben meist keine Taverne
+
+
+
+
+
+----------------------------Bekannte Fehler und Probleme------------------------------------
+
+>die Biegung des Nebelgebirges südlich von Lorien bis Isengard:
+Eigentlich läuft das Gebirge gerade nach Süden 
+und stattdessen macht der Anduin südlich der Rauros-Fälle einen Biegung nach Osten.
+Eine Richtigstellung wäre mir zu viel Arbeit, weil ich dann ca. ein Viertel der Karte (im Südosten) neu editieren müsste.
+
+
+Die Probleme unter "Karte testen" sind beabsichtigt bzw. hingenommen.
+Dabei handelt es sich um:
+>die Leuchtfeuer im Weißen Gebirge
+>Durins Turm am Caradhras
+>Die Grabstätte der Könige und Truchsessen Gondors
+>Manwe´s Thron auf dem Gipfel des Taniquetil
+>die Insel der Valië Este im See Lórellin 
+
+
+
+
+-------------------------------Die wichtigsten Aufgaben----------------------------------
+
+Den Einen Ring finden können: Bilbo, Gollum, Saruman
+
+Frodo kann den Ring im Schicksalsberg vernichten und das Szenario entscheiden
+
+Gandalf kann Theoden (mit Eowin) befreien, erhält Truppen von Radagast und Manwe
+
+Theoden kann das Tor nach Gondor öffnen und ihm schliessen sich in Dunharg 22 Kavalleristen an
+
+Aragorn kann mit "Narsil (Schwert des Urteils)" den Totenkönig verpflichten und Tausende Skelette rekrutieren
+
+Merry + Pippin schliessen sich die Ents an und können danach ein Tor nach Isengard öffnen
+
+Pippin erhält Reiter aus Rohan nach Entzünden der Leuchtfeuer in Minis Tirith
+
+Sauron kann Melkor/Morgoth befreien, das Tor nach Angband öffnen und 2 Helden rekrutieren
+
+Saurons Mund schliesst sich Smaug an
+
+Melkor/Morgoth kann das Tor nach Angband öffnen und 111 Vampire 
+und 2 fliegende Helden rekrutieren (Ancalagon & Turingwethil)
+
+Grima kann Theoden auf Sarumans Seite ziehen
+
+Hexenmeister kann dank der Geflügelten Unholde fliegen lernen
+
+Elben (violett) können in Aman/Valinor Verstärkung erhalten:
+>Die Helden Tulkas,Eonwe,Yavanna und Varda 
+>Truppen aus Garnisionen (vor allem Hunderte von Elben)
+>sich anschliessende Monster (Engel, Titanen, Magier, Verzauberer,Elben)
+>wichtige Artefakte: Fesseln des Krieges,Armageddon-Klinge,Titanen-Donner,Elexier des Lebens

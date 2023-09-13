@@ -1,0 +1,75 @@
+DUNKLER HORIZONT (Version 02)
+
+Grˆﬂe : XL
+Teams (menschlich) : keine
+Spieler : 8
+Menschliche Spieler : 1 (gr¸n,Schloss)
+Sieg : Xaraska besiegen
+Niederlage : Kasmir stirbt
+Handlung : Ja
+
+Neue Version:
+
+*Der Schwierigkeitsgrad wurde gesenkt,indem :
+
+- viele Monstergruppen zahlenm‰ﬂig reduziert wurden
+- mehr Ressourcen platziert wurden
+- Der Held bessere Skills bekam und ein wenig mehr Truppen hat
+- Weitere Geb‰ude eingef¸gt wurden
+- Der Endboss geschw‰cht wurde
+- Neue Boni eingef¸gt wurden
+- Monsterstacks,die T¸rkis erstmal aufhalten sollen verst‰rkt wurden
+- das gr¸ne Zelt f¸r T¸rkis erst ab lvl 30 zug‰nglich gemacht wurde
+- mehr Res-Generatoren platziert wurden
+
+*S‰mtliche Texte wurden ¸berarbeitet und erweitert,sowie neue Texte f¸r Nebenquests verfasst
+
+*In den Tavernen gibt es nun ein paar Ger¸chte,die n¸tzlich sein kˆnnen
+
+*Es wurde eine Biographie f¸r Kasmir verfasst
+
+*Die Helden wurden den einzelnen Fraktionen zugewiesen
+
+*Die Helden der anderen Fraktionen (auﬂer T¸rkis) wurden st‰rker gemacht
+
+Hinweise/Ratschl‰ge :
+
+- Einige Artefakte benˆtigt ihr f¸r Quests oder gar f¸r die Haupthandlung! (Meist werden sie auch auff‰llig bewacht.)
+  Seht zu,dass euch keine verlorengehen!
+
+- Kasmir ist (bzw sollte!) der Hauptheld (sein),denn die Story dreht sich um ihn!Auﬂerdem gibt es zahlreiche 
+  Guard Quest - T¸rme,die nur IHN durchlassen.Desweiteren sind die wichtigen Dialoge auf ihn ausgerichtet (nicht zuletzt 
+  der Weg zum Endboss)!
+
+- Nur mit "Fliegen" oder "Dimensionstor" gelangt ihr zum Endgegner!
+
+- Haltet die Augen offen!Ich habe ein paar unbewachte Artefakte versteckt.Sie sind nicht ausschlaggebend,aber n¸tzlich!
+
+- Wenn ihr erst einmal Fly habt,kˆnnt ihr ja im Prinzip ¸berall hin.Da kann man nat¸rlich tricksen und den ein oder anderen 
+  Guard Quest oder andere Barrieren ¸berfliegen.Ich habe versucht die Mˆglichkeiten zu kompensieren,aber unmˆglich ist es 
+  trotzdem nicht.Bedenkt aber,dass ihr somit die Handlung zerstˆren kˆnntet und ein paar reizvolle K‰mpfe verpasst!
+
+- Von den 5 Schreinen ist lediglich der Schrein der Luft essenziell wichtig,um die Mission zu schaffen
+
+- Entweder m¸sst ihr Sp‰hen lernen,oder (beide!) Fernrohre finden (sind extra versteckt,falls ihr kein Sp‰hen bekommt),denn
+  ihr m¸sst weit genug blicken kˆnnen,um ¸ber die H¸rden des Untotenherrschers zu gelangen!
+
+- Bereitet euch gut vor,wenn ihr zum letzten Kampf schreitet,denn der Boss hat hohe Primwerte und die Fesseln des Krieges!
+
+- Die Version : "Dunkler Horizont - Pakt des Bˆsen" ist eine etwas h‰rtere Version,da t¸rkis noch den Teufel (rot) und den Barbaren (violett) in
+  seinem Team hat.
+
+Fehler:
+
+- Wenn ihr auf Restart klickt,habt ihr Kasmir plˆtzlich "zweimal".Er ist zweimal in der Heldenliste,aber nur der erste
+  kann angeklickt werden und er startet von der Stadt aus und nicht von seinem eigentlichen Startpunkt!
+  Versucht Restart also bitte zu vermeiden.
+
+---> *Dieser Fehler scheint jetzt behoben zu sein.Bei s‰mtlichen Tests trat er nicht mehr auf.
+
+Falls euch weitere Fehler auffallen (Rechtschreibfehler,gewollte K‰mpfe,die man umgehen kann usw),oder falls ihr Verbesserungsvorschl‰ge habt,
+schreibt bitte einen Kommentar im Kartenarchiv.Danke!
+
+Viel Spaﬂ mit dieser Karte!Ich hatte ihn beim Erstellen auch!
+
+Dungeonmaster
