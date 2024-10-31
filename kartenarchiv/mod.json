@@ -1,7 +1,7 @@
 {	
 	"name" : "Kartenarchiv",
 	"description" : "Kartenarchiv is a map pack for HoMM3 based on www.kartenarchiv.de maps. Most of the maps are german.",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"author" : "",
 	"contact" : "http://www.kartenarchiv.de/",
 	"modType" : "Maps",
@@ -11,10 +11,48 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.1" : [ "Various translations by George King using translator tool from Heroes Launcher" ],
 		"1.0.0" : [ "Initial release" ]
 	},
 	"german" : {
 		"name" : "Kartenarchiv",
 		"description" : "Kartenarchiv ist ein Kartenpaket für HoMM3, das auf www.kartenarchiv.de Karten basiert. Die meisten der Karten sind deutsch."	
-	}
+	},
+    "czech" : {
+		"name": "Archiv map",
+		"description": "Archiv map je balíček map pro Heroes 3 založený na mapách z www.kartenarchiv.de. Všechny mapy byly přeloženy pouze pomocí Google překladače v Heroes Launcheru, jakékoli vylepšení textu je vítáno!",
+		"translations" : [
+			"translation/kartenarchive/czech.json"
+		]
+    },
+    "polish" : {
+		"name": "Map Archive",
+		"description": "Map Archive to pakiet map do gry Heroes 3 oparty na mapach ze strony www.kartenarchiv.de. Wszystkie mapy zostały przetłumaczone wyłącznie za pomocą Tłumacza Google w programie Heroes Launcher, wszelkie ulepszenia tekstu są mile widziane!",
+		"translations" : [
+			"translation/kartenarchive/polish.json"
+		]
+    },
+    "english" : {
+		"name": "Map Archive",
+		"description": "The Map Archive is a map pack for Heroes 3 based on maps from www.kartenarchiv.de. All maps have been translated only using Google Translate in Heroes Launcher, any text improvements are welcome!",
+		"translations" : [
+			"translation/kartenarchive/english.json"
+		]
+    },
+    "russian" : {
+		"name": "Архив карт",
+		"description": "Архив карт — это набор карт для Heroes 3, основанный на картах с www.kartenarchiv.de. Все карты переведены только с помощью Google Translate в Heroes Launcher, любые текстовые улучшения приветствуются!",
+		"translations" : [
+			"translation/kartenarchive/russian.json"
+		]
+    },
+    "ukrainian" : {
+		"name": "Архів карти",
+		"description": "Архів карт - це пакет карт для Heroes 3 на основі карт з www.kartenarchiv.de. Усі карти перекладено лише за допомогою Google Translate у Heroes Launcher, будь-які текстові покращення вітаються!",
+		"translations" : [
+			"translation/kartenarchive/ukrainian.json"
+		]
+    }
 }
+
+
