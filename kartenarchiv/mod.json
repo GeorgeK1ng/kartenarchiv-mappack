@@ -52,6 +52,13 @@
 		"translations" : [
 			"translation/kartenarchive/ukrainian.json"
 		]
+    },
+    "chinese" : {
+		"name" : "地图档案",
+		"description" : "地图档案是英雄 3 的一个地图包，基于来自 www.kartenarchiv.de 的地图。所有地图均使用英雄启动器中的谷歌翻译进行翻译，欢迎任何文本改进！",
+		"translations" : [
+			"translation/kartenarchive/chinese.json"
+		]
     }
 }
 
