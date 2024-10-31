@@ -59,6 +59,13 @@
 		"translations" : [
 			"translation/kartenarchive/chinese.json"
 		]
+    },
+    "hungarian" : {
+		"name": "Térképarchívum",
+		"description": "A térképarchívum egy térképcsomag a Heroes 3-hoz, amely a www.kartenarchiv.de webhelyen található térképeken alapul. Minden térképet csak a Google Fordítóval fordítottak le a Heroes Launcherben, szívesen fogadunk bármilyen szöveges fejlesztést!",
+		"translations" : [
+			"translation/kartenarchive/hungarian.json"
+		]
     }
 }
 
