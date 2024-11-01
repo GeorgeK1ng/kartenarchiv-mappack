@@ -16,7 +16,10 @@
 	},
 	"german" : {
 		"name" : "Kartenarchiv",
-		"description" : "Kartenarchiv ist ein Kartenpaket für HoMM3, das auf www.kartenarchiv.de Karten basiert. Die meisten der Karten sind deutsch."	
+		"description" : "Kartenarchiv ist ein Kartenpaket für HoMM3, das auf www.kartenarchiv.de Karten basiert. Die meisten der Karten sind deutsch.",
+		"translations" : [
+			"translation/kartenarchive/german.json"
+		]
 	},
     "czech" : {
 		"name": "Archiv map",
